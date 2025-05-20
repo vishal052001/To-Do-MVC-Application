@@ -1,0 +1,1403 @@
+2024-12-15 23:51:28 [INFO] Fetching ToDo list
+2024-12-15 23:51:28 [INFO] Displaying page 1 of ToDo list
+2024-12-15 23:51:33 [INFO] Returning ToDo edit form for ID 4 via AJAX
+2024-12-15 23:51:36 [INFO] Attempting to update ToDo: learn C#
+2024-12-15 23:51:36 [INFO] ToDo updated successfully: learn C#
+2024-12-15 23:51:36 [INFO] Fetching ToDo list
+2024-12-15 23:51:36 [INFO] Displaying page 1 of ToDo list
+2024-12-15 23:52:02 [INFO] Returning ToDo details for ID 4 via AJAX
+2024-12-15 23:52:08 [INFO] Exporting ToDo list to Excel with search query: 
+2024-12-15 23:52:08 [INFO] Exported ToDo list to Excel successfully
+2024-12-16 00:07:34 [INFO] Fetching ToDo list
+2024-12-16 00:07:34 [INFO] Displaying page 1 of ToDo list
+2024-12-16 00:07:52 [INFO] Returning ToDo details for ID 4 via AJAX
+2024-12-16 00:08:07 [INFO] Returning ToDo edit form for ID 4 via AJAX
+2024-12-16 00:08:18 [INFO] Attempting to update ToDo: learn C#
+2024-12-16 00:08:18 [INFO] ToDo updated successfully: learn C#
+2024-12-16 00:08:18 [INFO] Fetching ToDo list
+2024-12-16 00:08:18 [INFO] Displaying page 1 of ToDo list
+2024-12-16 00:15:15 [INFO] Fetching ToDo list
+2024-12-16 00:15:15 [INFO] Displaying page 1 of ToDo list
+2024-12-16 00:15:18 [INFO] Exporting ToDo list to Excel with search query: 
+2024-12-16 00:15:19 [INFO] Exported ToDo list to Excel successfully
+2024-12-16 00:18:46 [INFO] Fetching ToDo list
+2024-12-16 00:18:46 [INFO] Displaying page 1 of ToDo list
+2024-12-16 10:43:51 [INFO] Fetching ToDo list
+2024-12-16 10:43:51 [INFO] Displaying page 1 of ToDo list
+2024-12-16 10:43:57 [INFO] Returning ToDo details for ID 4 via AJAX
+2024-12-16 10:44:03 [INFO] Returning ToDo edit form for ID 4 via AJAX
+2024-12-16 10:44:05 [INFO] Attempting to update ToDo: learn C#
+2024-12-16 10:44:05 [INFO] ToDo updated successfully: learn C#
+2024-12-16 10:44:05 [INFO] Fetching ToDo list
+2024-12-16 10:44:05 [INFO] Displaying page 1 of ToDo list
+2024-12-16 10:44:08 [INFO] Attempting to delete ToDo with ID: 4
+2024-12-16 10:44:08 [INFO] ToDo with ID 4 deleted successfully
+2024-12-16 10:44:08 [INFO] Fetching ToDo list
+2024-12-16 10:44:08 [INFO] Displaying page 1 of ToDo list
+2024-12-16 10:44:11 [INFO] Exporting ToDo list to Excel with search query: 
+2024-12-16 10:44:11 [INFO] Exporting ToDo list to Excel with search query: 
+2024-12-16 10:44:12 [INFO] Exported ToDo list to Excel successfully
+2024-12-16 10:44:12 [INFO] Exporting ToDo list to Excel with search query: 
+2024-12-16 10:44:12 [INFO] Exported ToDo list to Excel successfully
+2024-12-16 10:44:29 [INFO] Fetching ToDo list
+2024-12-16 10:44:29 [INFO] Displaying page 2 of ToDo list
+2024-12-16 10:44:30 [INFO] Fetching ToDo list
+2024-12-16 10:44:30 [INFO] Displaying page 3 of ToDo list
+2024-12-16 10:44:32 [INFO] Fetching ToDo list
+2024-12-16 10:44:32 [INFO] Displaying page 2 of ToDo list
+2024-12-16 10:44:34 [INFO] Fetching ToDo list
+2024-12-16 10:44:34 [INFO] Displaying page 3 of ToDo list
+2024-12-16 10:44:36 [INFO] Fetching ToDo list
+2024-12-16 10:44:36 [INFO] Displaying page 2 of ToDo list
+2024-12-16 10:44:49 [INFO] Fetching ToDo list
+2024-12-16 10:44:49 [INFO] Displaying page 1 of ToDo list
+2024-12-16 10:44:55 [INFO] Fetching ToDo list
+2024-12-16 10:44:55 [INFO] Filtering ToDo list with search query: gym
+2024-12-16 10:44:55 [INFO] Displaying page 1 of ToDo list
+2024-12-16 10:45:10 [INFO] Attempting to create ToDo: shagun testing
+2024-12-16 10:45:10 [INFO] ToDo created successfully: shagun testing
+2024-12-16 10:45:10 [INFO] Fetching ToDo list
+2024-12-16 10:45:10 [INFO] Filtering ToDo list with search query: gym
+2024-12-16 10:45:10 [INFO] Displaying page 1 of ToDo list
+2024-12-16 10:45:13 [INFO] Fetching ToDo list
+2024-12-16 10:45:13 [INFO] Filtering ToDo list with search query: gym
+2024-12-16 10:45:13 [INFO] Displaying page 1 of ToDo list
+2024-12-16 10:45:19 [INFO] Fetching ToDo list
+2024-12-16 10:45:19 [INFO] Displaying page 1 of ToDo list
+2024-12-16 10:46:29 [INFO] Returning ToDo details for ID 5 via AJAX
+2024-12-16 10:47:25 [INFO] Fetching ToDo list
+2024-12-16 10:47:25 [INFO] Displaying page 1 of ToDo list
+2024-12-16 10:54:37 [INFO] Fetching ToDo list
+2024-12-16 10:54:37 [INFO] Displaying page 1 of ToDo list
+2024-12-16 10:54:41 [INFO] Fetching ToDo list
+2024-12-16 10:54:41 [INFO] Displaying page 1 of ToDo list
+2024-12-16 10:55:24 [INFO] Fetching ToDo list
+2024-12-16 10:55:24 [INFO] Displaying page 1 of ToDo list
+2024-12-16 10:55:41 [INFO] Fetching ToDo list
+2024-12-16 10:55:41 [INFO] Displaying page 1 of ToDo list
+2024-12-16 10:56:00 [INFO] Fetching ToDo list
+2024-12-16 10:56:00 [INFO] Displaying page 1 of ToDo list
+2024-12-16 10:56:22 [INFO] Fetching ToDo list
+2024-12-16 10:56:22 [INFO] Displaying page 1 of ToDo list
+2024-12-16 10:56:38 [INFO] Fetching ToDo list
+2024-12-16 10:56:38 [INFO] Displaying page 1 of ToDo list
+2024-12-16 10:57:19 [INFO] Fetching ToDo list
+2024-12-16 10:57:19 [INFO] Displaying page 1 of ToDo list
+2024-12-16 10:57:27 [INFO] Fetching ToDo list
+2024-12-16 10:57:27 [INFO] Displaying page 1 of ToDo list
+2024-12-16 15:04:19 [INFO] Fetching ToDo list
+2024-12-16 15:04:19 [INFO] Displaying page 1 of ToDo list
+2024-12-16 15:04:51 [INFO] Fetching ToDo list
+2024-12-16 15:04:51 [INFO] Displaying page 1 of ToDo list
+2024-12-17 14:03:36 [INFO] Fetching ToDo list
+2024-12-17 14:03:36 [INFO] Displaying page 1 of ToDo list
+2024-12-17 14:03:52 [INFO] Fetching ToDo list
+2024-12-17 14:03:52 [INFO] Displaying page 1 of ToDo list
+2024-12-17 14:12:37 [INFO] Fetching ToDo list
+2024-12-17 14:12:37 [INFO] Displaying page 1 of ToDo list
+2024-12-19 10:08:10 [INFO] Fetching ToDo list
+2024-12-19 10:08:10 [INFO] Displaying page 1 of ToDo list
+2024-12-19 10:08:16 [INFO] Fetching ToDo list
+2024-12-19 10:08:16 [INFO] Displaying page 1 of ToDo list
+2025-01-03 11:03:20 [INFO] Fetching ToDo list
+2025-01-03 11:03:20 [INFO] Displaying page 1 of ToDo list
+2025-01-03 11:03:45 [INFO] Fetching ToDo list
+2025-01-03 11:03:45 [INFO] Displaying page 1 of ToDo list
+2025-01-06 10:07:35 [INFO] Fetching ToDo list
+2025-01-06 10:07:35 [INFO] Displaying page 1 of ToDo list
+2025-01-06 10:07:39 [INFO] Fetching ToDo list
+2025-01-06 10:07:39 [INFO] Displaying page 1 of ToDo list
+2025-01-06 10:07:42 [INFO] Returning ToDo details for ID 5 via AJAX
+2025-01-06 10:07:44 [INFO] Returning ToDo edit form for ID 5 via AJAX
+2025-01-06 11:48:37 [INFO] Fetching ToDo list
+2025-01-06 11:48:37 [INFO] Displaying page 1 of ToDo list
+2025-01-06 11:48:51 [INFO] Fetching ToDo list
+2025-01-06 11:48:51 [INFO] Displaying page 1 of ToDo list
+2025-01-06 11:48:57 [INFO] Fetching ToDo list
+2025-01-06 11:48:57 [INFO] Displaying page 1 of ToDo list
+2025-01-06 11:49:24 [INFO] Fetching ToDo list
+2025-01-06 11:49:24 [INFO] Displaying page 1 of ToDo list
+2025-01-06 11:49:55 [INFO] Fetching ToDo list
+2025-01-06 11:49:55 [INFO] Displaying page 1 of ToDo list
+2025-01-06 11:49:57 [INFO] Fetching ToDo list
+2025-01-06 11:49:57 [INFO] Displaying page 3 of ToDo list
+2025-01-06 11:49:59 [INFO] Fetching ToDo list
+2025-01-06 11:49:59 [INFO] Displaying page 2 of ToDo list
+2025-01-06 11:50:00 [INFO] Fetching ToDo list
+2025-01-06 11:50:00 [INFO] Displaying page 1 of ToDo list
+2025-01-06 11:50:13 [INFO] Fetching ToDo list
+2025-01-06 11:50:13 [INFO] Displaying page 1 of ToDo list
+2025-01-06 11:50:19 [INFO] Fetching ToDo list
+2025-01-06 11:50:19 [INFO] Displaying page 1 of ToDo list
+2025-01-06 11:50:48 [INFO] Fetching ToDo list
+2025-01-06 11:50:48 [INFO] Displaying page 1 of ToDo list
+2025-01-06 11:52:43 [INFO] Fetching ToDo list
+2025-01-06 11:52:43 [INFO] Displaying page 1 of ToDo list
+2025-01-06 14:12:26 [INFO] Fetching ToDo list
+2025-01-06 14:12:26 [INFO] Displaying page 1 of ToDo list
+2025-01-06 14:12:30 [INFO] Fetching ToDo list
+2025-01-06 14:12:30 [INFO] Displaying page 1 of ToDo list
+2025-01-06 14:45:06 [INFO] Fetching ToDo list
+2025-01-06 14:45:06 [INFO] Displaying page 1 of ToDo list
+2025-01-06 14:45:14 [INFO] Fetching ToDo list
+2025-01-06 14:45:14 [INFO] Displaying page 1 of ToDo list
+2025-01-06 14:45:16 [INFO] Fetching ToDo list
+2025-01-06 14:45:16 [INFO] Displaying page 1 of ToDo list
+2025-01-06 14:45:19 [INFO] Returning ToDo details for ID 10 via AJAX
+2025-01-06 23:06:24 [INFO] Fetching ToDo list
+2025-01-06 23:06:24 [INFO] Displaying page 1 of ToDo list
+2025-01-06 23:06:32 [INFO] Fetching ToDo list
+2025-01-06 23:06:32 [INFO] Displaying page 3 of ToDo list
+2025-01-06 23:06:34 [INFO] Fetching ToDo list
+2025-01-06 23:06:34 [INFO] Displaying page 2 of ToDo list
+2025-01-06 23:06:36 [INFO] Fetching ToDo list
+2025-01-06 23:06:36 [INFO] Displaying page 1 of ToDo list
+2025-01-06 23:13:08 [INFO] Fetching ToDo list
+2025-01-06 23:13:08 [WARN] No logged-in user found.
+2025-01-06 23:13:24 [INFO] Fetching ToDo list
+2025-01-06 23:13:24 [WARN] No logged-in user found.
+2025-01-06 23:19:08 [INFO] Fetching ToDo list
+2025-01-06 23:19:08 [WARN] No logged-in user found.
+2025-01-06 23:19:58 [INFO] Fetching ToDo list
+2025-01-06 23:19:58 [WARN] No logged-in user found.
+2025-01-06 23:23:45 [INFO] Fetching ToDo list
+2025-01-06 23:23:45 [INFO] Displaying page 1 of ToDo list
+2025-01-06 23:24:12 [INFO] Fetching ToDo list
+2025-01-06 23:24:12 [INFO] Displaying page 1 of ToDo list
+2025-01-06 23:24:32 [INFO] Fetching ToDo list
+2025-01-06 23:24:32 [INFO] Displaying page 1 of ToDo list
+2025-01-06 23:24:38 [INFO] Fetching ToDo list
+2025-01-06 23:24:38 [INFO] Displaying page 1 of ToDo list
+2025-01-07 00:37:46 [INFO] Fetching ToDo list
+2025-01-07 00:37:46 [INFO] Displaying page 1 of ToDo list
+2025-01-07 00:38:10 [INFO] Fetching ToDo list
+2025-01-07 00:38:10 [INFO] Displaying page 1 of ToDo list
+2025-01-07 00:40:14 [INFO] Fetching ToDo list
+2025-01-07 00:40:14 [INFO] Displaying page 1 of ToDo list
+2025-01-07 00:40:27 [INFO] Fetching ToDo list
+2025-01-07 00:40:27 [INFO] Displaying page 1 of ToDo list
+2025-01-07 10:17:51 [INFO] Fetching ToDo list
+2025-01-07 10:17:51 [INFO] Displaying page 1 of ToDo list
+2025-01-07 10:17:57 [INFO] Fetching ToDo list
+2025-01-07 10:17:57 [INFO] Displaying page 1 of ToDo list
+2025-01-07 10:18:09 [INFO] Fetching ToDo list
+2025-01-07 10:18:09 [INFO] Displaying page 1 of ToDo list
+2025-01-07 10:21:50 [INFO] Fetching ToDo list
+2025-01-07 10:21:50 [INFO] Displaying page 1 of ToDo list
+2025-01-07 10:21:52 [INFO] Fetching ToDo list
+2025-01-07 10:21:52 [INFO] Displaying page 1 of ToDo list
+2025-01-07 10:22:05 [INFO] Fetching ToDo list
+2025-01-07 10:22:05 [INFO] Displaying page 1 of ToDo list
+2025-01-07 11:06:07 [INFO] Fetching ToDo list
+2025-01-07 11:06:07 [INFO] Displaying page 1 of ToDo list
+2025-01-07 11:06:12 [INFO] Fetching ToDo list
+2025-01-07 11:06:12 [INFO] Displaying page 1 of ToDo list
+2025-01-07 11:32:40 [INFO] Fetching ToDo list
+2025-01-07 11:32:40 [INFO] Displaying page 1 of ToDo list
+2025-01-07 11:33:53 [INFO] Fetching ToDo list
+2025-01-07 11:33:53 [INFO] Displaying page 1 of ToDo list
+2025-01-07 11:45:19 [INFO] Fetching ToDo list
+2025-01-07 11:45:19 [INFO] Displaying page 1 of ToDo list
+2025-01-07 11:45:22 [INFO] Fetching ToDo list
+2025-01-07 11:45:22 [INFO] Displaying page 3 of ToDo list
+2025-01-07 11:45:23 [INFO] Fetching ToDo list
+2025-01-07 11:45:23 [INFO] Displaying page 2 of ToDo list
+2025-01-07 11:45:25 [INFO] Fetching ToDo list
+2025-01-07 11:45:25 [INFO] Displaying page 1 of ToDo list
+2025-01-07 12:35:28 [INFO] Fetching ToDo list
+2025-01-07 12:35:28 [ERROR] Error fetching ToDo list | Exception: Invalid column name 'UserId1'. | StackTrace:    at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.InitializeReader(Enumerator enumerator)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.<>c.<MoveNext>b__21_0(DbContext _, Enumerator enumerator)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at ToDoListAppMVC.Services.ToDoService.GetAll() in C:\Users\320269266\source\repos\ToDoListAppMVC\Services\ToDoService.cs:line 23
+   at ToDoController.Index(Int32 page, Int32 pageSize) in C:\Users\320269266\source\repos\ToDoListAppMVC\Controllers\ToDoController.cs:line 27
+2025-01-07 12:35:40 [INFO] Fetching ToDo list
+2025-01-07 12:35:40 [ERROR] Error fetching ToDo list | Exception: Invalid column name 'UserId1'. | StackTrace:    at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.InitializeReader(Enumerator enumerator)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.<>c.<MoveNext>b__21_0(DbContext _, Enumerator enumerator)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at ToDoListAppMVC.Services.ToDoService.GetAll() in C:\Users\320269266\source\repos\ToDoListAppMVC\Services\ToDoService.cs:line 23
+   at ToDoController.Index(Int32 page, Int32 pageSize) in C:\Users\320269266\source\repos\ToDoListAppMVC\Controllers\ToDoController.cs:line 27
+2025-01-07 12:36:08 [INFO] Fetching ToDo list
+2025-01-07 12:36:08 [ERROR] Error fetching ToDo list | Exception: Invalid column name 'UserId1'. | StackTrace:    at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.InitializeReader(Enumerator enumerator)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.<>c.<MoveNext>b__21_0(DbContext _, Enumerator enumerator)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at ToDoListAppMVC.Services.ToDoService.GetAll() in C:\Users\320269266\source\repos\ToDoListAppMVC\Services\ToDoService.cs:line 23
+   at ToDoController.Index(Int32 page, Int32 pageSize) in C:\Users\320269266\source\repos\ToDoListAppMVC\Controllers\ToDoController.cs:line 27
+2025-01-07 12:38:56 [INFO] Fetching ToDo list
+2025-01-07 12:38:56 [ERROR] Error fetching ToDo list | Exception: Invalid column name 'UserId1'. | StackTrace:    at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.InitializeReader(Enumerator enumerator)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.<>c.<MoveNext>b__21_0(DbContext _, Enumerator enumerator)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at ToDoListAppMVC.Services.ToDoService.GetAll() in C:\Users\320269266\source\repos\ToDoListAppMVC\Services\ToDoService.cs:line 23
+   at ToDoController.Index(Int32 page, Int32 pageSize) in C:\Users\320269266\source\repos\ToDoListAppMVC\Controllers\ToDoController.cs:line 27
+2025-01-07 12:39:21 [INFO] Fetching ToDo list
+2025-01-07 12:39:21 [ERROR] Error fetching ToDo list | Exception: Invalid column name 'UserId1'. | StackTrace:    at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.InitializeReader(Enumerator enumerator)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.<>c.<MoveNext>b__21_0(DbContext _, Enumerator enumerator)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at ToDoListAppMVC.Services.ToDoService.GetAll() in C:\Users\320269266\source\repos\ToDoListAppMVC\Services\ToDoService.cs:line 23
+   at ToDoController.Index(Int32 page, Int32 pageSize) in C:\Users\320269266\source\repos\ToDoListAppMVC\Controllers\ToDoController.cs:line 27
+2025-01-07 14:16:17 [INFO] Fetching ToDo list
+2025-01-07 14:16:17 [ERROR] Error fetching ToDo list | Exception: Invalid column name 'UserId1'. | StackTrace:    at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.InitializeReader(Enumerator enumerator)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.<>c.<MoveNext>b__21_0(DbContext _, Enumerator enumerator)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at ToDoListAppMVC.Services.ToDoService.GetAll() in C:\Users\320269266\source\repos\ToDoListAppMVC\Services\ToDoService.cs:line 23
+   at ToDoController.Index(Int32 page, Int32 pageSize) in C:\Users\320269266\source\repos\ToDoListAppMVC\Controllers\ToDoController.cs:line 27
+2025-01-07 14:18:28 [INFO] Fetching ToDo list
+2025-01-07 14:18:28 [ERROR] Error fetching ToDo list | Exception: Invalid column name 'UserId1'. | StackTrace:    at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.InitializeReader(Enumerator enumerator)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.<>c.<MoveNext>b__21_0(DbContext _, Enumerator enumerator)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at ToDoListAppMVC.Services.ToDoService.GetAll() in C:\Users\320269266\source\repos\ToDoListAppMVC\Services\ToDoService.cs:line 23
+   at ToDoController.Index(Int32 page, Int32 pageSize) in C:\Users\320269266\source\repos\ToDoListAppMVC\Controllers\ToDoController.cs:line 27
+2025-01-07 14:24:49 [INFO] Fetching ToDo list
+2025-01-07 14:24:49 [INFO] Displaying page 1 of ToDo list
+2025-01-07 14:25:22 [INFO] Fetching ToDo list
+2025-01-07 14:25:22 [INFO] Displaying page 1 of ToDo list
+2025-01-07 14:25:26 [INFO] Returning ToDo details for ID 5 via AJAX
+2025-01-07 14:25:28 [INFO] Returning ToDo edit form for ID 5 via AJAX
+2025-01-07 15:01:55 [INFO] Fetching ToDo list
+2025-01-07 15:02:13 [INFO] Fetching ToDo list
+2025-01-07 15:08:11 [INFO] Fetching ToDo list
+2025-01-07 15:08:22 [INFO] Fetching ToDo list
+2025-01-07 15:23:08 [INFO] Fetching ToDo list
+2025-01-07 15:54:53 [INFO] Fetching ToDo list
+2025-01-07 15:54:53 [INFO] Displaying page 1 of ToDo list
+2025-01-08 10:50:33 [INFO] Fetching ToDo list
+2025-01-08 10:50:33 [INFO] Displaying page 1 of ToDo list
+2025-01-08 10:55:23 [INFO] Fetching ToDo list
+2025-01-08 10:55:23 [INFO] Displaying page 1 of ToDo list
+2025-01-08 11:41:02 [INFO] Fetching ToDo list for the current user
+2025-01-08 11:41:02 [WARN] User not logged in. Redirecting to login.
+2025-01-08 11:57:48 [INFO] Fetching ToDo list for the current user
+2025-01-08 11:57:48 [WARN] User not logged in. Redirecting to login.
+2025-01-08 12:02:59 [INFO] Fetching ToDo list for the current user
+2025-01-08 12:02:59 [INFO] Displaying page 1 of ToDo list for user ID 
+2025-01-08 12:03:31 [INFO] Fetching ToDo list for the current user
+2025-01-08 12:03:31 [INFO] Displaying page 1 of ToDo list for user ID 
+2025-01-08 12:12:33 [INFO] Fetching ToDo list for the current user
+2025-01-08 12:12:33 [INFO] Displaying page 1 of ToDo list for user ID 12
+2025-01-08 12:13:08 [INFO] Fetching ToDo list for the current user
+2025-01-08 12:13:09 [INFO] Displaying page 1 of ToDo list for user ID 6
+2025-01-08 12:15:12 [INFO] Fetching ToDo list for the current user
+2025-01-08 12:15:12 [INFO] Displaying page 1 of ToDo list for user ID 6
+2025-01-08 12:17:37 [INFO] Fetching ToDo list for the current user
+2025-01-08 12:17:37 [INFO] Displaying page 1 of ToDo list for user ID 6
+2025-01-08 12:21:29 [INFO] Fetching ToDo list for the current user
+2025-01-08 12:21:29 [INFO] Displaying page 1 of ToDo list for user ID 6
+2025-01-08 12:22:21 [INFO] Fetching ToDo list for the current user
+2025-01-08 12:22:21 [INFO] Displaying page 1 of ToDo list for user ID 6
+2025-01-08 12:36:46 [INFO] Fetching ToDo list for the current user
+2025-01-08 12:36:46 [INFO] Displaying page 1 of ToDo list for user ID 6
+2025-01-08 12:41:20 [INFO] Fetching ToDo list for the current user
+2025-01-08 12:41:20 [INFO] Displaying page 1 of ToDo list for user ID 12
+2025-01-08 12:41:45 [INFO] Fetching ToDo list for the current user
+2025-01-08 12:41:45 [INFO] Displaying page 1 of ToDo list for user ID 12
+2025-01-08 12:43:49 [INFO] Fetching ToDo list for the current user
+2025-01-08 12:43:49 [INFO] Displaying page 1 of ToDo list for user ID 12
+2025-01-08 12:44:33 [INFO] Exporting ToDo list to Excel with search query: 
+2025-01-08 12:44:34 [INFO] Exported ToDo list to Excel successfully
+2025-01-08 12:44:39 [INFO] Returning ToDo details for ID 5 via AJAX
+2025-01-08 12:45:01 [INFO] Fetching ToDo list for the current user
+2025-01-08 12:45:01 [INFO] Displaying page 1 of ToDo list for user ID 6
+2025-01-08 12:45:17 [INFO] Fetching ToDo list for the current user
+2025-01-08 12:45:17 [INFO] Displaying page 1 of ToDo list for user ID 6
+2025-01-08 14:11:50 [INFO] Fetching ToDo list for the current user
+2025-01-08 14:11:50 [INFO] Displaying page 1 of ToDo list for user ID 12
+2025-01-08 14:11:55 [INFO] Returning ToDo details for ID 5 via AJAX
+2025-01-08 14:27:32 [INFO] Fetching ToDo list for the current user
+2025-01-08 14:27:32 [INFO] Displaying page 1 of ToDo list for user ID 12
+2025-01-08 14:43:30 [INFO] Fetching ToDo list for the current user
+2025-01-08 14:43:30 [INFO] Displaying page 1 of ToDo list for user ID 12
+2025-01-08 14:43:38 [INFO] Returning ToDo details for ID 5 via AJAX
+2025-01-08 16:57:50 [INFO] Fetching ToDo list for the current user
+2025-01-08 16:57:50 [INFO] Displaying page 1 of ToDo list for user ID 12
+2025-01-08 16:57:54 [INFO] Returning ToDo edit form for ID 5 via AJAX
+2025-01-08 16:58:03 [ERROR] Error updating ToDo | Exception: Object reference not set to an instance of an object. | StackTrace:    at ToDoController.Edit(Int32 id, ToDoItem toDoItem) in C:\Users\320269266\source\repos\ToDoListAppMVC\Controllers\ToDoController.cs:line 181
+2025-01-08 16:58:13 [INFO] Returning ToDo details for ID 5 via AJAX
+2025-01-08 16:58:29 [WARN] Create ToDo failed: Invalid model
+2025-01-08 17:03:41 [WARN] Create ToDo failed: Invalid model
+2025-01-08 17:04:15 [INFO] Fetching ToDo list for the current user
+2025-01-08 17:04:15 [INFO] Displaying page 1 of ToDo list for user ID 6
+2025-01-08 17:04:22 [INFO] Fetching ToDo list for the current user
+2025-01-08 17:04:22 [INFO] Displaying page 1 of ToDo list for user ID 6
+2025-01-08 17:04:45 [INFO] Fetching ToDo list for the current user
+2025-01-08 17:04:45 [INFO] Displaying page 1 of ToDo list for user ID 12
+2025-01-08 17:04:51 [INFO] Fetching ToDo list for the current user
+2025-01-08 17:04:51 [INFO] Filtering ToDo list with search query: mvc
+2025-01-08 17:04:51 [INFO] Displaying page 1 of ToDo list for user ID 12
+2025-01-08 17:04:54 [INFO] Fetching ToDo list for the current user
+2025-01-08 17:04:54 [INFO] Filtering ToDo list with search query: mvc
+2025-01-08 17:04:54 [INFO] Displaying page 2 of ToDo list for user ID 12
+2025-01-08 17:04:55 [INFO] Fetching ToDo list for the current user
+2025-01-08 17:04:55 [INFO] Filtering ToDo list with search query: mvc
+2025-01-08 17:04:55 [INFO] Displaying page 1 of ToDo list for user ID 12
+2025-01-08 17:05:02 [INFO] Fetching ToDo list for the current user
+2025-01-08 17:05:02 [INFO] Filtering ToDo list with search query: mvc
+2025-01-08 17:05:02 [INFO] Displaying page 2 of ToDo list for user ID 12
+2025-01-08 17:05:06 [INFO] Attempting to delete ToDo with ID: 44
+2025-01-08 17:05:06 [INFO] ToDo with ID 44 deleted successfully
+2025-01-08 17:05:06 [INFO] Fetching ToDo list for the current user
+2025-01-08 17:05:06 [INFO] Filtering ToDo list with search query: mvc
+2025-01-08 17:05:06 [INFO] Displaying page 2 of ToDo list for user ID 12
+2025-01-08 17:05:11 [INFO] Attempting to delete ToDo with ID: 38
+2025-01-08 17:05:11 [INFO] ToDo with ID 38 deleted successfully
+2025-01-08 17:05:11 [INFO] Fetching ToDo list for the current user
+2025-01-08 17:05:11 [INFO] Filtering ToDo list with search query: mvc
+2025-01-08 17:05:11 [INFO] Displaying page 2 of ToDo list for user ID 12
+2025-01-08 17:05:13 [INFO] Returning ToDo edit form for ID 37 via AJAX
+2025-01-08 17:05:18 [ERROR] Error updating ToDo | Exception: Object reference not set to an instance of an object. | StackTrace:    at ToDoController.Edit(Int32 id, ToDoItem toDoItem) in C:\Users\320269266\source\repos\ToDoListAppMVC\Controllers\ToDoController.cs:line 181
+2025-01-08 17:08:10 [INFO] Returning ToDo edit form for ID 37 via AJAX
+2025-01-08 17:08:12 [ERROR] Error updating ToDo | Exception: Object reference not set to an instance of an object. | StackTrace:    at ToDoController.Edit(Int32 id, ToDoItem toDoItem) in C:\Users\320269266\source\repos\ToDoListAppMVC\Controllers\ToDoController.cs:line 181
+2025-01-08 17:11:41 [INFO] Fetching ToDo list for the current user
+2025-01-08 17:11:41 [INFO] Filtering ToDo list with search query: mvc
+2025-01-08 17:11:41 [INFO] Displaying page 2 of ToDo list for user ID 12
+2025-01-08 17:11:51 [INFO] Fetching ToDo list for the current user
+2025-01-08 17:11:51 [INFO] Filtering ToDo list with search query: mvc
+2025-01-08 17:11:51 [INFO] Displaying page 2 of ToDo list for user ID 12
+2025-01-08 17:12:32 [INFO] Fetching ToDo list for the current user
+2025-01-08 17:12:32 [INFO] Displaying page 1 of ToDo list for user ID 12
+2025-01-08 17:12:40 [WARN] Create ToDo failed: Invalid model
+2025-01-08 17:12:46 [INFO] Returning ToDo edit form for ID 5 via AJAX
+2025-01-08 17:12:50 [ERROR] Error updating ToDo | Exception: Object reference not set to an instance of an object. | StackTrace:    at ToDoController.Edit(Int32 id, ToDoItem toDoItem) in C:\Users\320269266\source\repos\ToDoListAppMVC\Controllers\ToDoController.cs:line 181
+2025-01-08 17:15:44 [ERROR] Error updating ToDo | Exception: Object reference not set to an instance of an object. | StackTrace:    at ToDoController.Edit(Int32 id, ToDoItem toDoItem) in C:\Users\320269266\source\repos\ToDoListAppMVC\Controllers\ToDoController.cs:line 181
+2025-01-08 17:15:53 [ERROR] Error updating ToDo | Exception: Object reference not set to an instance of an object. | StackTrace:    at ToDoController.Edit(Int32 id, ToDoItem toDoItem) in C:\Users\320269266\source\repos\ToDoListAppMVC\Controllers\ToDoController.cs:line 181
+2025-01-08 17:22:06 [INFO] Fetching ToDo list
+2025-01-08 17:22:06 [INFO] Displaying page 1 of ToDo list
+2025-01-08 17:22:13 [INFO] Returning ToDo details for ID 5 via AJAX
+2025-01-08 17:25:38 [INFO] Fetching ToDo list
+2025-01-08 17:25:38 [INFO] Displaying page 1 of ToDo list
+2025-01-08 17:25:42 [INFO] Returning ToDo edit form for ID 5 via AJAX
+2025-01-08 17:25:44 [INFO] Attempting to update ToDo: Learn MVC
+2025-01-08 17:25:44 [INFO] ToDo updated successfully: Learn MVC
+2025-01-08 17:25:44 [INFO] Fetching ToDo list
+2025-01-08 17:25:44 [INFO] Displaying page 1 of ToDo list
+2025-01-08 17:25:51 [INFO] Returning ToDo edit form for ID 5 via AJAX
+2025-01-08 17:25:56 [INFO] Attempting to update ToDo: Learn MVC
+2025-01-08 17:25:56 [INFO] ToDo updated successfully: Learn MVC
+2025-01-08 17:25:56 [INFO] Fetching ToDo list
+2025-01-08 17:25:56 [INFO] Displaying page 1 of ToDo list
+2025-01-08 17:25:58 [INFO] Returning ToDo edit form for ID 5 via AJAX
+2025-01-08 17:26:00 [INFO] Attempting to update ToDo: Learn MVC
+2025-01-08 17:26:00 [INFO] ToDo updated successfully: Learn MVC
+2025-01-08 17:26:00 [INFO] Fetching ToDo list
+2025-01-08 17:26:01 [INFO] Displaying page 1 of ToDo list
+2025-01-08 17:26:03 [INFO] Returning ToDo details for ID 5 via AJAX
+2025-01-08 17:26:12 [INFO] Attempting to create ToDo: MVC
+2025-01-08 17:26:12 [ERROR] Error creating ToDo | Exception: An error occurred while saving the entity changes. See the inner exception for details. | StackTrace:    at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeResultSet(Int32 startCommandIndex, RelationalDataReader reader)
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.Consume(RelationalDataReader reader)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(StateManager stateManager, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.<>c.<SaveChanges>b__112_0(DbContext _, ValueTuple`2 t)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges()
+   at ToDoListAppMVC.Services.ToDoService.Add(ToDoItem item) in C:\Users\320269266\source\repos\ToDoListAppMVC\Services\ToDoService.cs:line 61
+   at ToDoController.Create(ToDoItem item) in C:\Users\320269266\source\repos\ToDoListAppMVC\Controllers\ToDoController.cs:line 66
+2025-01-08 17:27:01 [INFO] Attempting to create ToDo: MVC
+2025-01-08 17:27:01 [ERROR] Error creating ToDo | Exception: An error occurred while saving the entity changes. See the inner exception for details. | StackTrace:    at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeResultSet(Int32 startCommandIndex, RelationalDataReader reader)
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.Consume(RelationalDataReader reader)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(StateManager stateManager, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.<>c.<SaveChanges>b__112_0(DbContext _, ValueTuple`2 t)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges()
+   at ToDoListAppMVC.Services.ToDoService.Add(ToDoItem item) in C:\Users\320269266\source\repos\ToDoListAppMVC\Services\ToDoService.cs:line 61
+   at ToDoController.Create(ToDoItem item) in C:\Users\320269266\source\repos\ToDoListAppMVC\Controllers\ToDoController.cs:line 66
+2025-01-08 17:30:24 [INFO] Fetching ToDo list
+2025-01-08 17:30:25 [INFO] Displaying page 1 of ToDo list
+2025-01-08 17:30:55 [INFO] Fetching ToDo list
+2025-01-08 17:30:55 [INFO] Displaying page 1 of ToDo list
+2025-01-08 17:31:04 [INFO] Attempting to create ToDo: MVC
+2025-01-08 17:31:04 [INFO] ToDo created successfully: MVC
+2025-01-08 17:31:04 [INFO] Fetching ToDo list
+2025-01-08 17:31:04 [INFO] Displaying page 1 of ToDo list
+2025-01-08 17:31:07 [INFO] Fetching ToDo list
+2025-01-08 17:31:07 [INFO] Displaying page 3 of ToDo list
+2025-01-08 17:31:16 [INFO] Attempting to create ToDo: MVC
+2025-01-08 17:31:16 [INFO] ToDo created successfully: MVC
+2025-01-08 17:31:16 [INFO] Fetching ToDo list
+2025-01-08 17:31:16 [INFO] Displaying page 3 of ToDo list
+2025-01-08 17:31:20 [INFO] Returning ToDo edit form for ID 49 via AJAX
+2025-01-08 17:31:24 [INFO] Attempting to update ToDo: MVC1
+2025-01-08 17:31:24 [INFO] ToDo updated successfully: MVC1
+2025-01-08 17:31:24 [INFO] Fetching ToDo list
+2025-01-08 17:31:24 [INFO] Displaying page 3 of ToDo list
+2025-01-08 17:31:42 [INFO] Returning ToDo edit form for ID 49 via AJAX
+2025-01-08 17:31:46 [INFO] Attempting to update ToDo: MVC
+2025-01-08 17:31:46 [INFO] ToDo updated successfully: MVC
+2025-01-08 17:31:46 [INFO] Fetching ToDo list
+2025-01-08 17:31:46 [INFO] Displaying page 3 of ToDo list
+2025-01-08 17:31:47 [INFO] Returning ToDo edit form for ID 49 via AJAX
+2025-01-08 17:31:51 [INFO] Attempting to update ToDo: MVC
+2025-01-08 17:31:51 [INFO] ToDo updated successfully: MVC
+2025-01-08 17:31:51 [INFO] Fetching ToDo list
+2025-01-08 17:31:51 [INFO] Displaying page 3 of ToDo list
+2025-01-08 17:31:53 [INFO] Returning ToDo details for ID 49 via AJAX
+2025-01-08 17:32:00 [INFO] Fetching ToDo list
+2025-01-08 17:32:00 [INFO] Displaying page 1 of ToDo list
+2025-01-08 17:38:22 [INFO] Fetching ToDo list
+2025-01-08 17:38:22 [INFO] Displaying page 1 of ToDo list
+2025-01-08 17:38:25 [INFO] Fetching ToDo list
+2025-01-08 17:38:25 [INFO] Displaying page 2 of ToDo list
+2025-01-08 17:38:26 [INFO] Fetching ToDo list
+2025-01-08 17:38:26 [INFO] Displaying page 3 of ToDo list
+2025-01-08 17:38:28 [INFO] Fetching ToDo list
+2025-01-08 17:38:28 [INFO] Displaying page 1 of ToDo list
+2025-01-08 17:52:43 [INFO] Fetching ToDo list
+2025-01-08 17:52:43 [INFO] Displaying page 1 of ToDo list
+2025-01-08 17:53:10 [INFO] Fetching ToDo list
+2025-01-08 17:53:10 [INFO] Displaying page 1 of ToDo list
+2025-01-08 17:53:26 [INFO] Fetching ToDo list
+2025-01-08 17:53:26 [INFO] Displaying page 1 of ToDo list
+2025-01-08 18:07:51 [INFO] Fetching ToDo list
+2025-01-08 18:07:51 [INFO] Displaying page 1 of ToDo list
+2025-01-08 18:11:02 [INFO] Fetching ToDo list
+2025-01-08 18:11:02 [INFO] Displaying page 1 of ToDo list
+2025-01-08 18:11:08 [INFO] Fetching ToDo list
+2025-01-08 18:11:08 [INFO] Displaying page 1 of ToDo list
+2025-01-08 18:11:25 [INFO] Fetching ToDo list
+2025-01-08 18:11:25 [INFO] Displaying page 1 of ToDo list
+2025-01-08 18:12:14 [INFO] Fetching ToDo list
+2025-01-08 18:12:14 [INFO] Displaying page 1 of ToDo list
+2025-01-08 20:59:43 [INFO] Fetching ToDo list
+2025-01-08 20:59:44 [ERROR] Error fetching ToDo list | Exception: Invalid column name 'UserId'. | StackTrace:    at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.InitializeReader(Enumerator enumerator)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.<>c.<MoveNext>b__21_0(DbContext _, Enumerator enumerator)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at ToDoListAppMVC.Services.ToDoService.GetAll() in C:\Users\320269266\source\repos\ToDoListAppMVC\Services\ToDoService.cs:line 23
+   at ToDoController.Index(Int32 page, Int32 pageSize) in C:\Users\320269266\source\repos\ToDoListAppMVC\Controllers\ToDoController.cs:line 27
+2025-01-08 21:01:43 [INFO] Fetching ToDo list
+2025-01-08 21:01:43 [INFO] Displaying page 1 of ToDo list
+2025-01-08 21:01:52 [INFO] Fetching ToDo list
+2025-01-08 21:01:53 [INFO] Displaying page 3 of ToDo list
+2025-01-08 21:01:58 [INFO] Attempting to create ToDo: MVC
+2025-01-08 21:01:58 [INFO] ToDo created successfully: MVC
+2025-01-08 21:01:58 [INFO] Fetching ToDo list
+2025-01-08 21:01:58 [INFO] Displaying page 3 of ToDo list
+2025-01-08 21:02:41 [INFO] Returning ToDo details for ID 48 via AJAX
+2025-01-08 21:02:45 [INFO] Returning ToDo edit form for ID 48 via AJAX
+2025-01-08 21:02:48 [INFO] Attempting to update ToDo: MVC
+2025-01-08 21:02:48 [INFO] ToDo updated successfully: MVC
+2025-01-08 21:02:48 [INFO] Fetching ToDo list
+2025-01-08 21:02:49 [INFO] Displaying page 3 of ToDo list
+2025-01-08 21:02:53 [INFO] Attempting to delete ToDo with ID: 48
+2025-01-08 21:02:53 [INFO] ToDo with ID 48 deleted successfully
+2025-01-08 21:02:53 [INFO] Fetching ToDo list
+2025-01-08 21:02:53 [INFO] Displaying page 3 of ToDo list
+2025-01-08 21:02:56 [INFO] Fetching ToDo list
+2025-01-08 21:02:56 [INFO] Displaying page 2 of ToDo list
+2025-01-08 21:02:58 [INFO] Fetching ToDo list
+2025-01-08 21:02:58 [INFO] Displaying page 1 of ToDo list
+2025-01-08 21:03:15 [INFO] Fetching ToDo list
+2025-01-08 21:03:15 [INFO] Displaying page 1 of ToDo list
+2025-01-08 21:14:22 [INFO] Fetching ToDo list
+2025-01-08 21:14:22 [INFO] Displaying page 1 of ToDo list
+2025-01-08 21:14:31 [INFO] Attempting to create ToDo: MVC
+2025-01-08 21:14:31 [INFO] ToDo created successfully: MVC
+2025-01-08 21:14:31 [INFO] Fetching ToDo list
+2025-01-08 21:14:31 [INFO] Displaying page 1 of ToDo list
+2025-01-08 21:14:33 [INFO] Fetching ToDo list
+2025-01-08 21:14:33 [INFO] Displaying page 3 of ToDo list
+2025-01-08 21:14:41 [INFO] Attempting to create ToDo: MVC
+2025-01-08 21:14:41 [INFO] ToDo created successfully: MVC
+2025-01-08 21:14:41 [INFO] Fetching ToDo list
+2025-01-08 21:14:41 [INFO] Displaying page 3 of ToDo list
+2025-01-08 21:14:59 [INFO] Fetching ToDo list
+2025-01-08 21:14:59 [INFO] Displaying page 1 of ToDo list
+2025-01-08 21:15:09 [INFO] Fetching ToDo list
+2025-01-08 21:15:09 [INFO] Displaying page 3 of ToDo list
+2025-01-08 21:15:14 [INFO] Attempting to create ToDo: MVC
+2025-01-08 21:15:14 [INFO] ToDo created successfully: MVC
+2025-01-08 21:15:14 [INFO] Fetching ToDo list
+2025-01-08 21:15:15 [INFO] Displaying page 3 of ToDo list
+2025-01-08 21:15:18 [INFO] Attempting to delete ToDo with ID: 53
+2025-01-08 21:15:18 [INFO] ToDo with ID 53 deleted successfully
+2025-01-08 21:15:18 [INFO] Fetching ToDo list
+2025-01-08 21:15:18 [INFO] Displaying page 3 of ToDo list
+2025-01-08 21:15:20 [INFO] Exporting ToDo list to Excel with search query: 
+2025-01-08 21:15:21 [INFO] Exported ToDo list to Excel successfully
+2025-01-08 21:15:34 [INFO] Fetching ToDo list
+2025-01-08 21:15:34 [INFO] Displaying page 1 of ToDo list
+2025-01-08 21:15:44 [INFO] Fetching ToDo list
+2025-01-08 21:15:44 [INFO] Displaying page 1 of ToDo list
+2025-01-08 22:21:28 [INFO] Fetching ToDo list
+2025-01-08 22:21:28 [INFO] Displaying page 1 of ToDo list
+2025-01-08 22:21:41 [INFO] Fetching ToDo list
+2025-01-08 22:21:41 [INFO] Displaying page 1 of ToDo list
+2025-01-08 22:23:34 [INFO] Fetching ToDo list
+2025-01-08 22:23:34 [INFO] Displaying page 1 of ToDo list
+2025-01-08 23:01:12 [INFO] Fetching ToDo list
+2025-01-08 23:01:12 [INFO] Displaying page 1 of ToDo list
+2025-01-08 23:01:23 [INFO] Fetching ToDo list
+2025-01-08 23:01:23 [INFO] Displaying page 1 of ToDo list
+2025-01-08 23:01:56 [INFO] Fetching ToDo list
+2025-01-08 23:01:56 [INFO] Displaying page 1 of ToDo list
+2025-01-08 23:20:00 [INFO] Fetching ToDo list
+2025-01-08 23:20:00 [INFO] Displaying page 1 of ToDo list
+2025-01-08 23:20:08 [INFO] Returning ToDo edit form for ID 5 via AJAX
+2025-01-08 23:20:11 [INFO] Attempting to update ToDo: Learn MVC
+2025-01-08 23:20:11 [INFO] ToDo updated successfully: Learn MVC
+2025-01-08 23:20:11 [INFO] Fetching ToDo list
+2025-01-08 23:20:11 [INFO] Displaying page 1 of ToDo list
+2025-01-08 23:20:11 [INFO] Fetching ToDo list
+2025-01-08 23:20:11 [INFO] Displaying page 1 of ToDo list
+2025-01-08 23:20:30 [INFO] Attempting to create ToDo: MVC
+2025-01-08 23:20:30 [INFO] ToDo created successfully: MVC
+2025-01-08 23:20:30 [INFO] Fetching ToDo list
+2025-01-08 23:20:30 [INFO] Displaying page 1 of ToDo list
+2025-01-08 23:20:30 [INFO] Fetching ToDo list
+2025-01-08 23:20:30 [INFO] Displaying page 1 of ToDo list
+2025-01-08 23:20:33 [INFO] Fetching ToDo list
+2025-01-08 23:20:33 [INFO] Displaying page 3 of ToDo list
+2025-01-08 23:38:22 [INFO] Fetching ToDo list
+2025-01-08 23:38:22 [INFO] Displaying page 1 of ToDo list
+2025-01-08 23:38:32 [INFO] Returning ToDo edit form for ID 5 via AJAX
+2025-01-08 23:38:35 [INFO] Attempting to update ToDo: Learn MVC
+2025-01-08 23:38:35 [INFO] ToDo updated successfully: Learn MVC
+2025-01-08 23:38:35 [INFO] Fetching ToDo list
+2025-01-08 23:38:35 [INFO] Displaying page 1 of ToDo list
+2025-01-08 23:38:35 [INFO] Fetching ToDo list
+2025-01-08 23:38:35 [INFO] Displaying page 1 of ToDo list
+2025-01-08 23:41:58 [INFO] Fetching ToDo list
+2025-01-08 23:41:58 [INFO] Displaying page 1 of ToDo list
+2025-01-08 23:42:01 [INFO] Returning ToDo edit form for ID 5 via AJAX
+2025-01-08 23:42:03 [INFO] Attempting to update ToDo: Learn MVC
+2025-01-08 23:42:03 [INFO] ToDo updated successfully: Learn MVC
+2025-01-08 23:42:03 [INFO] Fetching ToDo list
+2025-01-08 23:42:03 [INFO] Displaying page 1 of ToDo list
+2025-01-09 12:21:03 [INFO] Fetching ToDo list
+2025-01-09 12:21:03 [INFO] Displaying page 1 of ToDo list
+2025-01-09 12:23:13 [INFO] Fetching ToDo list
+2025-01-09 12:23:13 [INFO] Displaying page 1 of ToDo list
+2025-01-09 12:23:40 [INFO] Exporting ToDo list to Excel with search query: 
+2025-01-09 12:23:41 [INFO] Exported ToDo list to Excel successfully
+2025-01-09 13:41:52 [INFO] Fetching ToDo list
+2025-01-09 13:41:52 [INFO] Displaying page 1 of ToDo list
+2025-01-09 13:42:49 [INFO] Fetching ToDo list
+2025-01-09 13:42:49 [INFO] Displaying page 1 of ToDo list
+2025-01-09 14:52:20 [INFO] Fetching ToDo list
+2025-01-09 14:52:20 [INFO] Displaying page 1 of ToDo list
+2025-01-09 14:56:43 [INFO] Fetching ToDo list
+2025-01-09 14:56:43 [INFO] Displaying page 1 of ToDo list
+2025-01-09 14:58:05 [INFO] Fetching ToDo list
+2025-01-09 14:58:05 [INFO] Displaying page 1 of ToDo list
+2025-01-09 15:04:06 [INFO] Fetching ToDo list
+2025-01-09 15:04:06 [INFO] Displaying page 1 of ToDo list
+2025-01-09 15:11:13 [INFO] Fetching ToDo list
+2025-01-09 15:11:13 [INFO] Displaying page 1 of ToDo list
+2025-01-09 15:14:45 [INFO] Returning ToDo details for ID 5 via AJAX
+2025-01-09 15:26:43 [INFO] Fetching ToDo list
+2025-01-09 15:26:43 [INFO] Displaying page 1 of ToDo list
+2025-01-09 16:20:54 [INFO] Fetching ToDo list
+2025-01-09 16:20:55 [INFO] Displaying page 1 of ToDo list
+2025-01-09 16:31:42 [INFO] Fetching ToDo list
+2025-01-09 16:31:42 [INFO] Displaying page 1 of ToDo list
+2025-01-09 16:59:34 [INFO] Fetching ToDo list
+2025-01-09 16:59:34 [INFO] Displaying page 1 of ToDo list
+2025-01-09 16:59:56 [INFO] Fetching ToDo list
+2025-01-09 16:59:56 [INFO] Displaying page 1 of ToDo list
+2025-01-09 17:00:26 [INFO] Fetching ToDo list
+2025-01-09 17:00:26 [INFO] Displaying page 1 of ToDo list
+2025-01-09 17:00:50 [INFO] Fetching ToDo list
+2025-01-09 17:00:50 [INFO] Displaying page 1 of ToDo list
+2025-01-09 17:16:37 [INFO] Fetching ToDo list
+2025-01-09 17:16:37 [INFO] Displaying page 1 of ToDo list
+2025-01-09 17:17:25 [INFO] Fetching ToDo list
+2025-01-09 17:17:25 [INFO] Displaying page 1 of ToDo list
+2025-01-09 17:18:03 [INFO] Fetching ToDo list
+2025-01-09 17:18:03 [INFO] Displaying page 1 of ToDo list
+2025-01-09 17:19:29 [INFO] Fetching ToDo list
+2025-01-09 17:19:29 [INFO] Displaying page 1 of ToDo list
+2025-01-09 17:20:37 [INFO] Fetching ToDo list
+2025-01-09 17:20:37 [INFO] Displaying page 1 of ToDo list
+2025-01-10 13:07:49 [INFO] Fetching ToDo list
+2025-01-10 13:07:49 [INFO] Displaying page 1 of ToDo list
+2025-01-10 13:29:18 [INFO] Fetching ToDo list
+2025-01-10 13:29:18 [INFO] Displaying page 1 of ToDo list
+2025-01-10 13:35:05 [INFO] Fetching ToDo list
+2025-01-10 13:35:05 [INFO] Displaying page 1 of ToDo list
+2025-01-10 13:36:09 [INFO] Fetching ToDo list
+2025-01-10 13:36:09 [INFO] Displaying page 1 of ToDo list
+2025-01-10 13:38:23 [INFO] Fetching ToDo list
+2025-01-10 13:38:23 [INFO] Displaying page 1 of ToDo list
+2025-02-11 20:16:26 [INFO] Fetching ToDo list
+2025-02-11 20:16:26 [INFO] Displaying page 1 of ToDo list
+2025-02-18 22:28:39 [INFO] Fetching ToDo list
+2025-02-18 22:28:39 [INFO] Displaying page 1 of ToDo list
+2025-02-18 22:28:51 [INFO] Fetching ToDo list
+2025-02-18 22:28:51 [INFO] Filtering ToDo list with search query: mvc
+2025-02-18 22:28:51 [INFO] Displaying page 1 of ToDo list
+2025-02-18 22:28:57 [INFO] Fetching ToDo list
+2025-02-18 22:28:57 [INFO] Filtering ToDo list with search query: learn
+2025-02-18 22:28:57 [INFO] Displaying page 1 of ToDo list
+2025-02-18 22:29:00 [INFO] Fetching ToDo list
+2025-02-18 22:29:00 [INFO] Displaying page 1 of ToDo list
+2025-02-18 22:29:10 [INFO] Fetching ToDo list
+2025-02-18 22:29:10 [INFO] Displaying page 1 of ToDo list
+2025-02-18 22:29:39 [INFO] Returning ToDo details for ID 5 via AJAX
+2025-02-18 22:29:42 [INFO] Returning ToDo edit form for ID 5 via AJAX
+2025-02-18 22:29:48 [INFO] Attempting to update ToDo: Learn MVC
+2025-02-18 22:29:48 [INFO] ToDo updated successfully: Learn MVC
+2025-02-18 22:29:48 [INFO] Fetching ToDo list
+2025-02-18 22:29:48 [INFO] Displaying page 1 of ToDo list
+2025-02-18 22:33:37 [INFO] Fetching ToDo list
+2025-02-18 22:33:37 [INFO] Displaying page 3 of ToDo list
+2025-02-18 22:33:39 [INFO] Fetching ToDo list
+2025-02-18 22:33:39 [INFO] Displaying page 2 of ToDo list
+2025-02-18 22:33:45 [INFO] Attempting to delete ToDo with ID: 45
+2025-02-18 22:33:45 [INFO] ToDo with ID 45 deleted successfully
+2025-02-18 22:33:45 [INFO] Fetching ToDo list
+2025-02-18 22:33:45 [INFO] Displaying page 2 of ToDo list
+2025-02-18 22:33:48 [INFO] Fetching ToDo list
+2025-02-18 22:33:48 [INFO] Displaying page 3 of ToDo list
+2025-02-18 22:33:56 [INFO] Attempting to create ToDo: MVC
+2025-02-18 22:33:56 [INFO] ToDo created successfully: MVC
+2025-02-18 22:33:57 [INFO] Fetching ToDo list
+2025-02-18 22:33:57 [INFO] Displaying page 3 of ToDo list
+2025-02-18 22:34:16 [INFO] Fetching ToDo list
+2025-02-18 22:34:16 [INFO] Displaying page 1 of ToDo list
+2025-02-18 22:34:27 [INFO] Fetching ToDo list
+2025-02-18 22:34:27 [INFO] Displaying page 3 of ToDo list
+2025-02-18 22:34:29 [INFO] Fetching ToDo list
+2025-02-18 22:34:29 [INFO] Displaying page 2 of ToDo list
+2025-02-18 22:34:31 [INFO] Fetching ToDo list
+2025-02-18 22:34:31 [INFO] Displaying page 1 of ToDo list
+2025-02-18 22:34:38 [INFO] Fetching ToDo list
+2025-02-18 22:34:38 [INFO] Displaying page 1 of ToDo list
+2025-02-18 22:35:21 [INFO] Fetching ToDo list
+2025-02-18 22:35:21 [INFO] Displaying page 1 of ToDo list
+2025-02-18 22:35:24 [INFO] Fetching ToDo list
+2025-02-18 22:35:24 [INFO] Displaying page 2 of ToDo list
+2025-02-18 22:35:26 [INFO] Fetching ToDo list
+2025-02-18 22:35:26 [INFO] Displaying page 3 of ToDo list
+2025-02-18 22:35:27 [INFO] Fetching ToDo list
+2025-02-18 22:35:27 [INFO] Displaying page 1 of ToDo list
+2025-02-18 22:35:41 [INFO] Fetching ToDo list
+2025-02-18 22:35:41 [INFO] Displaying page 1 of ToDo list
+2025-02-18 22:40:33 [INFO] Fetching ToDo list
+2025-02-18 22:40:33 [INFO] Displaying page 1 of ToDo list
+2025-02-18 22:40:43 [INFO] Fetching ToDo list
+2025-02-18 22:40:43 [INFO] Displaying page 1 of ToDo list
+2025-02-18 22:40:48 [INFO] Fetching ToDo list
+2025-02-18 22:40:48 [INFO] Displaying page 2 of ToDo list
+2025-02-18 22:40:49 [INFO] Fetching ToDo list
+2025-02-18 22:40:49 [INFO] Displaying page 3 of ToDo list
+2025-02-18 22:40:51 [INFO] Fetching ToDo list
+2025-02-18 22:40:51 [INFO] Displaying page 2 of ToDo list
+2025-02-19 12:41:24 [INFO] Fetching ToDo list
+2025-02-19 12:41:24 [INFO] Displaying page 1 of ToDo list
+2025-02-19 12:42:47 [INFO] Fetching ToDo list
+2025-02-19 12:42:47 [INFO] Displaying page 1 of ToDo list
+2025-02-19 12:43:31 [INFO] Fetching ToDo list
+2025-02-19 12:43:31 [INFO] Filtering ToDo list with search query: MVC
+2025-02-19 12:43:31 [INFO] Displaying page 1 of ToDo list
+2025-02-19 12:43:34 [INFO] Fetching ToDo list
+2025-02-19 12:43:34 [INFO] Filtering ToDo list with search query: MVC
+2025-02-19 12:43:34 [INFO] Displaying page 2 of ToDo list
+2025-02-19 12:43:37 [INFO] Fetching ToDo list
+2025-02-19 12:43:37 [INFO] Filtering ToDo list with search query: MVC
+2025-02-19 12:43:37 [INFO] Displaying page 1 of ToDo list
+2025-02-19 12:43:42 [INFO] Fetching ToDo list
+2025-02-19 12:43:42 [INFO] Displaying page 1 of ToDo list
+2025-02-19 12:43:49 [INFO] Exporting ToDo list to Excel with search query: 
+2025-02-19 12:43:50 [INFO] Exported ToDo list to Excel successfully
+2025-02-19 12:44:48 [INFO] Fetching ToDo list
+2025-02-19 12:44:48 [INFO] Displaying page 1 of ToDo list
+2025-02-19 12:45:10 [INFO] Fetching ToDo list
+2025-02-19 12:45:10 [INFO] Displaying page 1 of ToDo list
+2025-02-19 12:45:40 [INFO] Attempting to create ToDo: Review Meeting
+2025-02-19 12:45:40 [INFO] ToDo created successfully: Review Meeting
+2025-02-19 12:45:40 [INFO] Fetching ToDo list
+2025-02-19 12:45:40 [INFO] Displaying page 1 of ToDo list
+2025-02-19 12:45:42 [INFO] Fetching ToDo list
+2025-02-19 12:45:42 [INFO] Displaying page 3 of ToDo list
+2025-02-19 12:45:46 [INFO] Returning ToDo details for ID 56 via AJAX
+2025-02-19 12:45:51 [INFO] Attempting to delete ToDo with ID: 56
+2025-02-19 12:45:51 [INFO] ToDo with ID 56 deleted successfully
+2025-02-19 12:45:51 [INFO] Fetching ToDo list
+2025-02-19 12:45:51 [INFO] Displaying page 3 of ToDo list
+2025-02-19 12:45:56 [INFO] Fetching ToDo list
+2025-02-19 12:45:56 [INFO] Displaying page 1 of ToDo list
+2025-03-17 22:42:36 [INFO] Fetching ToDo list
+2025-03-17 22:42:36 [INFO] Displaying page 1 of ToDo list
+2025-03-17 22:44:44 [INFO] Fetching ToDo list
+2025-03-17 22:44:44 [INFO] Displaying page 1 of ToDo list
+2025-03-17 22:47:22 [INFO] Fetching ToDo list
+2025-03-17 22:47:22 [INFO] Displaying page 1 of ToDo list
+2025-03-17 22:49:44 [INFO] Fetching ToDo list
+2025-03-17 22:49:44 [INFO] Displaying page 1 of ToDo list
+2025-03-17 22:52:20 [INFO] Fetching ToDo list
+2025-03-17 22:52:20 [INFO] Displaying page 1 of ToDo list
+2025-03-17 22:52:45 [INFO] Fetching ToDo list
+2025-03-17 22:52:45 [INFO] Displaying page 1 of ToDo list
+2025-03-17 22:52:48 [INFO] Fetching ToDo list
+2025-03-17 22:52:48 [INFO] Displaying page 1 of ToDo list
+2025-03-17 22:52:51 [INFO] Fetching ToDo list
+2025-03-17 22:52:51 [INFO] Displaying page 1 of ToDo list
+2025-03-17 22:52:56 [INFO] Fetching ToDo list
+2025-03-17 22:52:56 [INFO] Displaying page 1 of ToDo list
+2025-03-17 22:53:01 [INFO] Fetching ToDo list
+2025-03-17 22:53:01 [INFO] Displaying page 1 of ToDo list
+2025-03-17 22:53:54 [INFO] Fetching ToDo list
+2025-03-17 22:53:54 [INFO] Displaying page 1 of ToDo list
+2025-03-17 22:54:09 [INFO] Fetching ToDo list
+2025-03-17 22:54:09 [INFO] Displaying page 1 of ToDo list
+2025-03-17 22:59:14 [INFO] Fetching ToDo list
+2025-03-17 22:59:14 [INFO] Displaying page 1 of ToDo list
+2025-03-17 23:00:29 [INFO] Fetching ToDo list
+2025-03-17 23:00:29 [INFO] Displaying page 1 of ToDo list
+2025-03-17 23:00:33 [INFO] Fetching ToDo list
+2025-03-17 23:00:33 [INFO] Displaying page 1 of ToDo list
+2025-03-17 23:00:37 [INFO] Fetching ToDo list
+2025-03-17 23:00:37 [INFO] Displaying page 1 of ToDo list
+2025-03-17 23:00:42 [INFO] Fetching ToDo list
+2025-03-17 23:00:42 [INFO] Displaying page 1 of ToDo list
+2025-03-17 23:00:46 [INFO] Fetching ToDo list
+2025-03-17 23:00:46 [INFO] Displaying page 1 of ToDo list
+2025-03-17 23:00:50 [INFO] Fetching ToDo list
+2025-03-17 23:00:50 [INFO] Displaying page 1 of ToDo list
+2025-03-17 23:01:24 [INFO] Fetching ToDo list
+2025-03-17 23:01:24 [INFO] Displaying page 1 of ToDo list
+2025-03-17 23:01:51 [INFO] Fetching ToDo list
+2025-03-17 23:01:51 [INFO] Displaying page 1 of ToDo list
+2025-03-17 23:02:59 [INFO] Fetching ToDo list
+2025-03-17 23:02:59 [INFO] Displaying page 1 of ToDo list
+2025-03-18 00:03:32 [INFO] Fetching ToDo list
+2025-03-18 00:03:32 [INFO] Displaying page 1 of ToDo list
+2025-03-18 00:03:38 [INFO] Fetching ToDo list
+2025-03-18 00:03:38 [INFO] Displaying page 1 of ToDo list
+2025-03-18 00:19:23 [INFO] Fetching ToDo list
+2025-03-18 00:19:23 [ERROR] Error fetching ToDo list | Exception: Data is Null. This method or property cannot be called on Null values. | StackTrace:    at Microsoft.Data.SqlClient.SqlBuffer.ThrowIfNull()
+   at Microsoft.Data.SqlClient.SqlBuffer.get_String()
+   at Microsoft.Data.SqlClient.SqlDataReader.GetString(Int32 i)
+   at lambda_method88(Closure, QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at ToDoListAppMVC.Services.ToDoService.GetAll(String currentUser, String userRole) in C:\Users\320269266\source\repos\ToDoListAppMVC\Services\ToDoService.cs:line 25
+   at ToDoController.Index(Int32 page, Int32 pageSize) in C:\Users\320269266\source\repos\ToDoListAppMVC\Controllers\ToDoController.cs:line 32
+2025-03-18 00:23:50 [INFO] Fetching ToDo list
+2025-03-18 00:23:51 [ERROR] Error fetching ToDo list | Exception: Data is Null. This method or property cannot be called on Null values. | StackTrace:    at Microsoft.Data.SqlClient.SqlBuffer.ThrowIfNull()
+   at Microsoft.Data.SqlClient.SqlBuffer.get_String()
+   at Microsoft.Data.SqlClient.SqlDataReader.GetString(Int32 i)
+   at lambda_method88(Closure, QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at ToDoListAppMVC.Services.ToDoService.GetAll(String currentUser, String userRole) in C:\Users\320269266\source\repos\ToDoListAppMVC\Services\ToDoService.cs:line 25
+   at ToDoController.Index(Int32 page, Int32 pageSize) in C:\Users\320269266\source\repos\ToDoListAppMVC\Controllers\ToDoController.cs:line 32
+2025-03-18 00:28:52 [INFO] Fetching ToDo list
+2025-03-18 00:28:52 [ERROR] Error fetching ToDo list | Exception: Data is Null. This method or property cannot be called on Null values. | StackTrace:    at Microsoft.Data.SqlClient.SqlBuffer.ThrowIfNull()
+   at Microsoft.Data.SqlClient.SqlBuffer.get_String()
+   at Microsoft.Data.SqlClient.SqlDataReader.GetString(Int32 i)
+   at lambda_method88(Closure, QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at ToDoListAppMVC.Services.ToDoService.GetAll(String currentUser, String userRole) in C:\Users\320269266\source\repos\ToDoListAppMVC\Services\ToDoService.cs:line 25
+   at ToDoController.Index(Int32 page, Int32 pageSize) in C:\Users\320269266\source\repos\ToDoListAppMVC\Controllers\ToDoController.cs:line 32
+2025-03-18 00:39:50 [INFO] Fetching ToDo list
+2025-03-18 00:39:50 [INFO] Displaying page 1 of ToDo list
+2025-03-18 00:40:04 [INFO] Attempting to create ToDo: MVC
+2025-03-18 00:40:04 [INFO] ToDo created successfully: MVC
+2025-03-18 00:40:05 [INFO] Fetching ToDo list
+2025-03-18 00:40:05 [INFO] Displaying page 1 of ToDo list
+2025-03-18 00:41:16 [INFO] Fetching ToDo list
+2025-03-18 00:41:16 [INFO] Displaying page 1 of ToDo list
+2025-03-18 00:41:34 [INFO] Attempting to create ToDo: MVC
+2025-03-18 00:41:34 [INFO] ToDo created successfully: MVC
+2025-03-18 00:41:34 [INFO] Fetching ToDo list
+2025-03-18 00:41:34 [INFO] Displaying page 1 of ToDo list
+2025-03-18 00:41:49 [INFO] Fetching ToDo list
+2025-03-18 00:41:49 [INFO] Displaying page 1 of ToDo list
+2025-03-18 00:42:14 [INFO] Attempting to create ToDo: MVC
+2025-03-18 00:42:14 [INFO] ToDo created successfully: MVC
+2025-03-18 00:42:14 [INFO] Fetching ToDo list
+2025-03-18 00:42:14 [INFO] Displaying page 1 of ToDo list
+2025-03-18 00:42:22 [INFO] ToDo with ID 3 deleted successfully
+2025-03-18 00:42:22 [INFO] Fetching ToDo list
+2025-03-18 00:42:22 [INFO] Displaying page 1 of ToDo list
+2025-03-18 00:42:30 [INFO] Fetching ToDo list
+2025-03-18 00:42:31 [INFO] Displaying page 1 of ToDo list
+2025-03-18 00:42:36 [INFO] Fetching ToDo list
+2025-03-18 00:42:36 [INFO] Displaying page 1 of ToDo list
+2025-03-18 00:42:42 [INFO] Attempting to create ToDo: MVC
+2025-03-18 00:42:42 [INFO] ToDo created successfully: MVC
+2025-03-18 00:42:42 [INFO] Fetching ToDo list
+2025-03-18 00:42:42 [INFO] Displaying page 1 of ToDo list
+2025-03-18 00:42:47 [INFO] Attempting to create ToDo: MVC
+2025-03-18 00:42:47 [INFO] ToDo created successfully: MVC
+2025-03-18 00:42:47 [INFO] Fetching ToDo list
+2025-03-18 00:42:47 [INFO] Displaying page 1 of ToDo list
+2025-03-18 00:42:53 [INFO] Attempting to create ToDo: MVC
+2025-03-18 00:42:53 [INFO] ToDo created successfully: MVC
+2025-03-18 00:42:53 [INFO] Fetching ToDo list
+2025-03-18 00:42:53 [INFO] Displaying page 1 of ToDo list
+2025-03-18 00:43:01 [INFO] Attempting to create ToDo: MVC
+2025-03-18 00:43:01 [INFO] ToDo created successfully: MVC
+2025-03-18 00:43:01 [INFO] Fetching ToDo list
+2025-03-18 00:43:01 [INFO] Displaying page 1 of ToDo list
+2025-03-18 00:43:08 [INFO] Attempting to create ToDo: MVC
+2025-03-18 00:43:08 [INFO] ToDo created successfully: MVC
+2025-03-18 00:43:08 [INFO] Fetching ToDo list
+2025-03-18 00:43:08 [INFO] Displaying page 1 of ToDo list
+2025-03-18 00:43:15 [INFO] Attempting to create ToDo: MVC
+2025-03-18 00:43:15 [INFO] ToDo created successfully: MVC
+2025-03-18 00:43:15 [INFO] Fetching ToDo list
+2025-03-18 00:43:15 [INFO] Displaying page 1 of ToDo list
+2025-03-18 00:43:22 [INFO] Attempting to create ToDo: MVC
+2025-03-18 00:43:22 [INFO] ToDo created successfully: MVC
+2025-03-18 00:43:22 [INFO] Fetching ToDo list
+2025-03-18 00:43:22 [INFO] Displaying page 1 of ToDo list
+2025-03-18 00:43:30 [INFO] Attempting to create ToDo: MVC
+2025-03-18 00:43:30 [INFO] ToDo created successfully: MVC
+2025-03-18 00:43:30 [INFO] Fetching ToDo list
+2025-03-18 00:43:31 [INFO] Displaying page 1 of ToDo list
+2025-03-18 00:43:43 [INFO] Attempting to create ToDo: MVC
+2025-03-18 00:43:43 [INFO] ToDo created successfully: MVC
+2025-03-18 00:43:43 [INFO] Fetching ToDo list
+2025-03-18 00:43:43 [INFO] Displaying page 1 of ToDo list
+2025-03-18 00:43:55 [INFO] Attempting to create ToDo: MVC
+2025-03-18 00:43:55 [INFO] ToDo created successfully: MVC
+2025-03-18 00:43:55 [INFO] Fetching ToDo list
+2025-03-18 00:43:55 [INFO] Displaying page 1 of ToDo list
+2025-03-18 00:43:57 [INFO] Fetching ToDo list
+2025-03-18 00:43:57 [INFO] Displaying page 2 of ToDo list
+2025-03-18 00:44:01 [INFO] Fetching ToDo list
+2025-03-18 00:44:01 [INFO] Displaying page 1 of ToDo list
+2025-03-18 00:44:06 [INFO] Fetching ToDo list
+2025-03-18 00:44:06 [INFO] Filtering ToDo list with search query: MVC
+2025-03-18 00:44:06 [INFO] Displaying page 1 of ToDo list
+2025-03-18 00:44:09 [INFO] Fetching ToDo list
+2025-03-18 00:44:09 [INFO] Filtering ToDo list with search query: MVC
+2025-03-18 00:44:09 [INFO] Displaying page 2 of ToDo list
+2025-03-18 00:44:11 [INFO] Fetching ToDo list
+2025-03-18 00:44:11 [INFO] Filtering ToDo list with search query: MVC
+2025-03-18 00:44:11 [INFO] Displaying page 1 of ToDo list
+2025-03-18 00:44:17 [INFO] Fetching ToDo list
+2025-03-18 00:44:17 [INFO] Displaying page 1 of ToDo list
+2025-03-18 00:45:53 [INFO] Fetching ToDo list
+2025-03-18 00:45:53 [INFO] Displaying page 1 of ToDo list
+2025-03-18 00:45:55 [INFO] Fetching ToDo list
+2025-03-18 00:45:55 [INFO] Displaying page 1 of ToDo list
+2025-03-18 00:45:57 [INFO] Fetching ToDo list
+2025-03-18 00:45:57 [INFO] Displaying page 1 of ToDo list
+2025-03-18 00:45:58 [INFO] Fetching ToDo list
+2025-03-18 00:45:58 [INFO] Displaying page 1 of ToDo list
+2025-03-18 00:45:58 [INFO] Fetching ToDo list
+2025-03-18 00:45:58 [INFO] Displaying page 1 of ToDo list
+2025-03-18 00:45:58 [INFO] Fetching ToDo list
+2025-03-18 00:45:58 [INFO] Displaying page 1 of ToDo list
+2025-03-18 00:45:59 [INFO] Fetching ToDo list
+2025-03-18 00:45:59 [INFO] Displaying page 1 of ToDo list
+2025-03-18 00:46:08 [INFO] Fetching ToDo list
+2025-03-18 00:46:08 [INFO] Displaying page 1 of ToDo list
+2025-03-18 00:46:29 [INFO] Fetching ToDo list
+2025-03-18 00:46:29 [INFO] Displaying page 1 of ToDo list
+2025-03-18 00:47:02 [INFO] Fetching ToDo list
+2025-03-18 00:47:02 [INFO] Displaying page 1 of ToDo list
+2025-03-18 00:47:05 [INFO] Fetching ToDo list
+2025-03-18 00:47:05 [INFO] Displaying page 2 of ToDo list
+2025-03-18 00:47:07 [INFO] Fetching ToDo list
+2025-03-18 00:47:07 [INFO] Displaying page 1 of ToDo list
+2025-03-18 00:47:21 [INFO] Attempting to create ToDo: Cloud
+2025-03-18 00:47:21 [INFO] ToDo created successfully: Cloud
+2025-03-18 00:47:22 [INFO] Fetching ToDo list
+2025-03-18 00:47:22 [INFO] Displaying page 1 of ToDo list
+2025-03-18 00:47:23 [INFO] Fetching ToDo list
+2025-03-18 00:47:23 [INFO] Displaying page 2 of ToDo list
+2025-03-18 00:47:24 [INFO] Fetching ToDo list
+2025-03-18 00:47:24 [INFO] Displaying page 1 of ToDo list
+2025-03-18 00:47:28 [INFO] Fetching ToDo list
+2025-03-18 00:47:28 [INFO] Filtering ToDo list with search query: MVC
+2025-03-18 00:47:28 [INFO] Displaying page 1 of ToDo list
+2025-03-18 00:47:30 [INFO] Fetching ToDo list
+2025-03-18 00:47:30 [INFO] Filtering ToDo list with search query: MVC
+2025-03-18 00:47:30 [INFO] Displaying page 2 of ToDo list
+2025-03-18 00:47:32 [INFO] Fetching ToDo list
+2025-03-18 00:47:33 [INFO] Displaying page 1 of ToDo list
+2025-03-18 00:47:35 [INFO] Fetching ToDo list
+2025-03-18 00:47:35 [INFO] Displaying page 2 of ToDo list
+2025-03-18 00:47:37 [INFO] Fetching ToDo list
+2025-03-18 00:47:37 [INFO] Displaying page 1 of ToDo list
+2025-03-18 00:47:58 [INFO] Fetching ToDo list
+2025-03-18 00:47:58 [INFO] Displaying page 1 of ToDo list
+2025-03-18 00:48:06 [INFO] Fetching ToDo list
+2025-03-18 00:48:06 [INFO] Displaying page 1 of ToDo list
+2025-03-18 00:48:09 [INFO] Fetching ToDo list
+2025-03-18 00:48:09 [INFO] Displaying page 2 of ToDo list
+2025-03-18 00:48:11 [INFO] Fetching ToDo list
+2025-03-18 00:48:11 [INFO] Displaying page 1 of ToDo list
+2025-03-18 00:56:49 [INFO] Fetching ToDo list
+2025-03-18 00:56:49 [INFO] Displaying page 1 of ToDo list
+2025-03-18 00:56:55 [INFO] Fetching ToDo list
+2025-03-18 00:56:55 [INFO] Displaying page 2 of ToDo list
+2025-03-18 00:56:57 [INFO] Fetching ToDo list
+2025-03-18 00:56:57 [INFO] Displaying page 1 of ToDo list
+2025-03-18 00:57:00 [INFO] Returning ToDo edit form for ID 1 via AJAX
+2025-03-18 00:57:08 [INFO] Returning ToDo edit form for ID 1 via AJAX
+2025-03-18 00:57:11 [INFO] Attempting to update ToDo: MVC
+2025-03-18 00:57:11 [INFO] ToDo updated successfully: MVC
+2025-03-18 00:57:11 [INFO] Fetching ToDo list
+2025-03-18 00:57:11 [INFO] Displaying page 1 of ToDo list
+2025-03-18 00:58:12 [INFO] Fetching ToDo list
+2025-03-18 00:58:12 [INFO] Displaying page 1 of ToDo list
+2025-03-18 00:58:49 [INFO] Attempting to create ToDo: Learn Cloud Computing
+2025-03-18 00:58:49 [INFO] ToDo created successfully: Learn Cloud Computing
+2025-03-18 00:58:49 [INFO] Fetching ToDo list
+2025-03-18 00:58:49 [INFO] Displaying page 1 of ToDo list
+2025-03-18 00:58:55 [INFO] Returning ToDo edit form for ID 15 via AJAX
+2025-03-18 00:59:05 [INFO] Fetching ToDo list
+2025-03-18 00:59:05 [INFO] Displaying page 1 of ToDo list
+2025-03-18 01:07:32 [INFO] Fetching ToDo list
+2025-03-18 01:07:32 [INFO] Displaying page 1 of ToDo list
+2025-03-18 01:07:40 [INFO] Fetching ToDo list
+2025-03-18 01:07:40 [INFO] Displaying page 2 of ToDo list
+2025-03-18 01:07:55 [INFO] Fetching ToDo list
+2025-03-18 01:07:55 [INFO] Displaying page 1 of ToDo list
+2025-03-18 01:07:58 [INFO] Fetching ToDo list
+2025-03-18 01:07:58 [INFO] Displaying page 2 of ToDo list
+2025-03-18 01:07:59 [INFO] Fetching ToDo list
+2025-03-18 01:07:59 [INFO] Displaying page 1 of ToDo list
+2025-03-18 01:08:01 [INFO] Fetching ToDo list
+2025-03-18 01:08:01 [INFO] Displaying page 2 of ToDo list
+2025-03-18 01:08:03 [INFO] Fetching ToDo list
+2025-03-18 01:08:03 [INFO] Displaying page 1 of ToDo list
+2025-03-18 01:08:09 [INFO] Fetching ToDo list
+2025-03-18 01:08:09 [INFO] Displaying page 1 of ToDo list
+2025-03-18 01:09:39 [INFO] Fetching ToDo list
+2025-03-18 01:09:39 [INFO] Displaying page 1 of ToDo list
+2025-03-18 01:10:03 [INFO] Fetching ToDo list
+2025-03-18 01:10:03 [INFO] Displaying page 1 of ToDo list
+2025-03-18 11:00:03 [INFO] Fetching ToDo list
+2025-03-18 11:00:03 [INFO] Displaying page 1 of ToDo list
+2025-03-18 11:00:34 [INFO] Fetching ToDo list
+2025-03-18 11:00:34 [INFO] Displaying page 1 of ToDo list
+2025-03-18 11:00:43 [INFO] Fetching ToDo list
+2025-03-18 11:00:43 [INFO] Displaying page 1 of ToDo list
+2025-03-18 11:00:44 [INFO] Fetching ToDo list
+2025-03-18 11:00:44 [INFO] Displaying page 2 of ToDo list
+2025-03-18 11:00:51 [INFO] ToDo with ID 15 deleted successfully
+2025-03-18 11:00:51 [INFO] Fetching ToDo list
+2025-03-18 11:00:51 [INFO] Displaying page 2 of ToDo list
+2025-03-18 11:00:54 [INFO] ToDo with ID 14 deleted successfully
+2025-03-18 11:00:54 [INFO] Fetching ToDo list
+2025-03-18 11:00:54 [INFO] Displaying page 2 of ToDo list
+2025-03-18 11:00:57 [INFO] Fetching ToDo list
+2025-03-18 11:00:57 [INFO] Displaying page 2 of ToDo list
+2025-03-18 11:00:58 [INFO] Fetching ToDo list
+2025-03-18 11:00:58 [INFO] Displaying page 1 of ToDo list
+2025-03-18 11:02:53 [INFO] Fetching ToDo list
+2025-03-18 11:02:53 [INFO] Displaying page 1 of ToDo list
+2025-03-18 11:12:20 [INFO] Fetching ToDo list
+2025-03-18 11:12:20 [INFO] Displaying page 1 of ToDo list
+2025-03-18 11:13:31 [INFO] Fetching ToDo list
+2025-03-18 11:13:31 [INFO] Displaying page 1 of ToDo list
+2025-03-18 11:14:59 [INFO] Fetching ToDo list
+2025-03-18 11:14:59 [INFO] Displaying page 1 of ToDo list
+2025-03-18 11:15:17 [INFO] Fetching ToDo list
+2025-03-18 11:15:17 [INFO] Displaying page 1 of ToDo list
+2025-03-18 11:15:29 [INFO] Fetching ToDo list
+2025-03-18 11:15:29 [INFO] Displaying page 1 of ToDo list
+2025-04-03 15:10:11 [INFO] Fetching ToDo list
+2025-04-03 15:10:11 [INFO] Displaying page 1 of ToDo list
+2025-04-03 15:10:31 [INFO] Fetching ToDo list
+2025-04-03 15:10:31 [INFO] Displaying page 2 of ToDo list
+2025-04-03 15:10:33 [INFO] Fetching ToDo list
+2025-04-03 15:10:33 [INFO] Displaying page 1 of ToDo list
+2025-04-03 15:15:40 [INFO] Fetching ToDo list
+2025-04-03 15:15:40 [INFO] Displaying page 1 of ToDo list
+2025-04-03 15:16:47 [INFO] Fetching ToDo list
+2025-04-03 15:16:47 [INFO] Displaying page 1 of ToDo list
+2025-04-03 15:17:14 [INFO] Fetching ToDo list
+2025-04-03 15:17:14 [INFO] Displaying page 1 of ToDo list
+2025-04-03 15:19:03 [INFO] Fetching ToDo list
+2025-04-03 15:19:03 [INFO] Displaying page 1 of ToDo list
+2025-04-03 15:22:27 [INFO] Fetching ToDo list
+2025-04-03 15:22:27 [INFO] Displaying page 1 of ToDo list
+2025-04-03 15:22:46 [INFO] Fetching ToDo list
+2025-04-03 15:22:46 [INFO] Displaying page 1 of ToDo list
+2025-04-03 15:23:02 [INFO] Returning ToDo edit form for ID 1 via AJAX
+2025-04-03 15:23:32 [INFO] Fetching ToDo list
+2025-04-03 15:23:32 [INFO] Displaying page 1 of ToDo list
+2025-04-03 15:24:38 [INFO] Fetching ToDo list
+2025-04-03 15:24:38 [INFO] Displaying page 2 of ToDo list
+2025-04-03 15:24:40 [INFO] Fetching ToDo list
+2025-04-03 15:24:41 [INFO] Displaying page 1 of ToDo list
+2025-04-03 15:25:52 [INFO] Fetching ToDo list
+2025-04-03 15:25:52 [INFO] Displaying page 1 of ToDo list
+2025-04-03 15:26:00 [INFO] Fetching ToDo list
+2025-04-03 15:26:00 [INFO] Displaying page 1 of ToDo list
+2025-04-03 15:30:44 [INFO] Fetching ToDo list
+2025-04-03 15:30:44 [INFO] Displaying page 1 of ToDo list
+2025-04-03 15:30:59 [INFO] Attempting to create ToDo: Abc
+2025-04-03 15:30:59 [INFO] ToDo created successfully: Abc
+2025-04-03 15:30:59 [INFO] Fetching ToDo list
+2025-04-03 15:30:59 [INFO] Displaying page 1 of ToDo list
+2025-04-23 18:47:23 [INFO] Fetching ToDo list
+2025-04-23 18:47:23 [INFO] Displaying page 1 of ToDo list
+2025-04-23 18:48:01 [INFO] Fetching ToDo list
+2025-04-23 18:48:01 [INFO] Displaying page 1 of ToDo list
+2025-04-23 18:48:04 [INFO] Fetching ToDo list
+2025-04-23 18:48:04 [INFO] Displaying page 1 of ToDo list
+2025-04-23 18:48:05 [INFO] Fetching ToDo list
+2025-04-23 18:48:05 [INFO] Displaying page 1 of ToDo list
+2025-04-23 18:48:05 [INFO] Fetching ToDo list
+2025-04-23 18:48:05 [INFO] Displaying page 1 of ToDo list
+2025-04-23 18:48:05 [INFO] Fetching ToDo list
+2025-04-23 18:48:05 [INFO] Displaying page 1 of ToDo list
+2025-04-23 18:48:06 [INFO] Fetching ToDo list
+2025-04-23 18:48:06 [INFO] Displaying page 1 of ToDo list
+2025-04-23 18:48:07 [INFO] Fetching ToDo list
+2025-04-23 18:48:07 [INFO] Displaying page 1 of ToDo list
+2025-04-23 18:48:25 [INFO] Fetching ToDo list
+2025-04-23 18:48:25 [INFO] Displaying page 1 of ToDo list
+2025-04-23 18:49:02 [INFO] Fetching ToDo list
+2025-04-23 18:49:02 [INFO] Displaying page 2 of ToDo list
+2025-04-23 18:49:04 [INFO] Fetching ToDo list
+2025-04-23 18:49:04 [INFO] Displaying page 1 of ToDo list
+2025-04-23 18:49:43 [INFO] Fetching ToDo list
+2025-04-23 18:49:43 [INFO] Displaying page 1 of ToDo list
+2025-04-23 18:49:48 [INFO] Fetching ToDo list
+2025-04-23 18:49:48 [INFO] Displaying page 1 of ToDo list
+2025-04-23 18:56:43 [INFO] Fetching ToDo list
+2025-04-23 18:56:43 [INFO] Displaying page 1 of ToDo list
+2025-04-23 19:21:36 [INFO] Fetching ToDo list
+2025-04-23 19:21:36 [INFO] Displaying page 1 of ToDo list
+2025-04-23 19:21:44 [INFO] Fetching ToDo list
+2025-04-23 19:21:44 [INFO] Displaying page 1 of ToDo list
+2025-04-23 19:21:51 [INFO] Fetching ToDo list
+2025-04-23 19:21:51 [INFO] Displaying page 1 of ToDo list
+2025-04-23 19:22:05 [INFO] Fetching ToDo list
+2025-04-23 19:22:05 [INFO] Displaying page 1 of ToDo list
+2025-04-23 19:22:16 [INFO] Fetching ToDo list
+2025-04-23 19:22:16 [INFO] Displaying page 1 of ToDo list
+2025-04-23 19:22:21 [INFO] Fetching ToDo list
+2025-04-23 19:22:21 [INFO] Displaying page 1 of ToDo list
+2025-04-23 19:39:29 [INFO] Fetching ToDo list
+2025-04-23 19:39:29 [INFO] Displaying page 1 of ToDo list
+2025-04-23 19:42:17 [INFO] Fetching ToDo list
+2025-04-23 19:42:17 [INFO] Displaying page 1 of ToDo list
+2025-05-06 10:29:28 [INFO] Fetching ToDo list
+2025-05-06 10:29:28 [INFO] Displaying page 1 of ToDo list
+2025-05-06 10:30:04 [INFO] Fetching ToDo list
+2025-05-06 10:30:04 [INFO] Displaying page 1 of ToDo list
+2025-05-06 10:30:10 [INFO] Fetching ToDo list
+2025-05-06 10:30:10 [INFO] Displaying page 1 of ToDo list
+2025-05-06 10:30:15 [INFO] Fetching ToDo list
+2025-05-06 10:30:15 [INFO] Displaying page 1 of ToDo list
+2025-05-06 10:30:18 [INFO] Fetching ToDo list
+2025-05-06 10:30:18 [INFO] Displaying page 1 of ToDo list
+2025-05-06 10:40:13 [INFO] Fetching ToDo list
+2025-05-06 10:40:14 [INFO] Displaying page 1 of ToDo list
+2025-05-06 10:51:35 [INFO] Fetching ToDo list
+2025-05-06 10:51:36 [INFO] Displaying page 1 of ToDo list
+2025-05-06 10:51:42 [INFO] Fetching ToDo list
+2025-05-06 10:51:42 [INFO] Displaying page 1 of ToDo list
+2025-05-06 10:51:45 [INFO] Fetching ToDo list
+2025-05-06 10:51:45 [INFO] Displaying page 1 of ToDo list
+2025-05-06 10:54:40 [INFO] Fetching ToDo list
+2025-05-06 10:54:40 [INFO] Displaying page 1 of ToDo list
+2025-05-06 10:54:57 [INFO] Fetching ToDo list
+2025-05-06 10:54:57 [INFO] Displaying page 1 of ToDo list
+2025-05-06 10:55:29 [INFO] Fetching ToDo list
+2025-05-06 10:55:29 [INFO] Displaying page 1 of ToDo list
+2025-05-06 10:55:49 [INFO] Fetching ToDo list
+2025-05-06 10:55:49 [INFO] Displaying page 1 of ToDo list
+2025-05-06 10:56:14 [INFO] Fetching ToDo list
+2025-05-06 10:56:14 [INFO] Displaying page 1 of ToDo list
+2025-05-06 10:59:21 [INFO] Fetching ToDo list
+2025-05-06 10:59:21 [INFO] Displaying page 1 of ToDo list
+2025-05-06 11:10:31 [INFO] Fetching ToDo list
+2025-05-06 11:10:31 [INFO] Displaying page 1 of ToDo list
+2025-05-06 11:16:00 [INFO] Fetching ToDo list
+2025-05-06 11:16:00 [INFO] Displaying page 1 of ToDo list
+2025-05-06 11:18:00 [INFO] Fetching ToDo list
+2025-05-06 11:18:00 [INFO] Displaying page 1 of ToDo list
+2025-05-06 11:30:11 [INFO] Fetching ToDo list
+2025-05-06 11:30:11 [INFO] Displaying page 1 of ToDo list
+2025-05-06 11:30:55 [INFO] Fetching ToDo list
+2025-05-06 11:30:55 [INFO] Displaying page 1 of ToDo list
+2025-05-06 11:30:59 [INFO] Fetching ToDo list
+2025-05-06 11:30:59 [INFO] Displaying page 1 of ToDo list
+2025-05-06 12:16:01 [INFO] Fetching ToDo list
+2025-05-06 12:16:01 [INFO] Displaying page 1 of ToDo list
+2025-05-06 12:16:10 [INFO] Fetching ToDo list
+2025-05-06 12:16:10 [INFO] Displaying page 1 of ToDo list
+2025-05-06 12:18:02 [INFO] Fetching ToDo list
+2025-05-06 12:18:02 [INFO] Displaying page 1 of ToDo list
+2025-05-08 10:51:40 [INFO] Fetching ToDo list
+2025-05-08 10:51:40 [INFO] Displaying page 1 of ToDo list
+2025-05-08 10:52:02 [INFO] Fetching ToDo list
+2025-05-08 10:52:02 [INFO] Displaying page 1 of ToDo list
+2025-05-08 10:52:10 [INFO] Fetching ToDo list
+2025-05-08 10:52:10 [INFO] Displaying page 1 of ToDo list
+2025-05-08 10:52:14 [INFO] Fetching ToDo list
+2025-05-08 10:52:14 [INFO] Displaying page 1 of ToDo list
+2025-05-08 11:25:12 [INFO] Fetching ToDo list
+2025-05-08 11:25:12 [INFO] Displaying page 1 of ToDo list
+2025-05-08 11:25:28 [INFO] Fetching ToDo list
+2025-05-08 11:25:28 [INFO] Displaying page 1 of ToDo list
+2025-05-08 11:27:35 [INFO] Fetching ToDo list
+2025-05-08 11:27:35 [INFO] Displaying page 1 of ToDo list
+2025-05-08 11:28:52 [INFO] Fetching ToDo list
+2025-05-08 11:28:52 [INFO] Displaying page 1 of ToDo list
+2025-05-08 11:29:10 [INFO] Fetching ToDo list
+2025-05-08 11:29:10 [INFO] Displaying page 1 of ToDo list
+2025-05-08 11:29:23 [INFO] Fetching ToDo list
+2025-05-08 11:29:23 [INFO] Displaying page 1 of ToDo list
+2025-05-08 11:29:27 [INFO] Fetching ToDo list
+2025-05-08 11:29:27 [INFO] Displaying page 1 of ToDo list
+2025-05-08 11:29:31 [INFO] Fetching ToDo list
+2025-05-08 11:29:31 [INFO] Displaying page 1 of ToDo list
+2025-05-08 11:29:34 [INFO] Fetching ToDo list
+2025-05-08 11:29:34 [INFO] Displaying page 1 of ToDo list
+2025-05-08 12:00:12 [INFO] Fetching ToDo list
+2025-05-08 12:00:12 [INFO] Displaying page 1 of ToDo list
+2025-05-08 12:03:10 [INFO] Fetching ToDo list
+2025-05-08 12:03:10 [INFO] Displaying page 1 of ToDo list
+2025-05-08 12:14:08 [INFO] Fetching ToDo list
+2025-05-08 12:14:08 [INFO] Displaying page 1 of ToDo list
+2025-05-08 12:16:30 [INFO] Fetching ToDo list
+2025-05-08 12:16:30 [INFO] Displaying page 1 of ToDo list
+2025-05-08 12:16:39 [INFO] Fetching ToDo list
+2025-05-08 12:16:39 [INFO] Displaying page 1 of ToDo list
+2025-05-08 12:20:21 [INFO] Fetching ToDo list
+2025-05-08 12:20:21 [INFO] Displaying page 1 of ToDo list
+2025-05-08 12:20:34 [INFO] Fetching ToDo list
+2025-05-08 12:20:34 [INFO] Displaying page 1 of ToDo list
+2025-05-08 12:20:47 [INFO] Fetching ToDo list
+2025-05-08 12:20:47 [INFO] Displaying page 1 of ToDo list
+2025-05-08 12:27:45 [INFO] Fetching ToDo list
+2025-05-08 12:27:45 [INFO] Displaying page 1 of ToDo list
+2025-05-08 12:28:07 [INFO] Fetching ToDo list
+2025-05-08 12:28:07 [INFO] Displaying page 1 of ToDo list
+2025-05-08 12:28:35 [INFO] Fetching ToDo list
+2025-05-08 12:28:35 [INFO] Displaying page 1 of ToDo list
+2025-05-08 12:31:45 [INFO] Fetching ToDo list
+2025-05-08 12:31:45 [INFO] Displaying page 1 of ToDo list
+2025-05-08 12:31:57 [INFO] Fetching ToDo list
+2025-05-08 12:31:57 [INFO] Displaying page 1 of ToDo list
+2025-05-08 12:32:41 [INFO] Fetching ToDo list
+2025-05-08 12:32:41 [INFO] Displaying page 1 of ToDo list
+2025-05-08 12:34:01 [INFO] Fetching ToDo list
+2025-05-08 12:34:02 [INFO] Displaying page 1 of ToDo list
+2025-05-08 12:35:41 [INFO] Fetching ToDo list
+2025-05-08 12:35:41 [INFO] Displaying page 1 of ToDo list
+2025-05-08 12:42:19 [INFO] Fetching ToDo list
+2025-05-08 12:42:19 [INFO] Displaying page 1 of ToDo list
+2025-05-08 13:31:28 [INFO] Fetching ToDo list
+2025-05-08 13:31:28 [INFO] Displaying page 1 of ToDo list
+2025-05-08 13:31:44 [INFO] Fetching ToDo list
+2025-05-08 13:31:44 [INFO] Displaying page 1 of ToDo list
+2025-05-08 13:32:11 [INFO] Fetching ToDo list
+2025-05-08 13:32:11 [INFO] Displaying page 1 of ToDo list
+2025-05-08 13:32:24 [INFO] Fetching ToDo list
+2025-05-08 13:32:24 [INFO] Displaying page 1 of ToDo list
+2025-05-08 13:35:38 [INFO] Fetching ToDo list
+2025-05-08 13:35:38 [INFO] Displaying page 1 of ToDo list
+2025-05-08 13:38:15 [INFO] Fetching ToDo list
+2025-05-08 13:38:15 [INFO] Displaying page 1 of ToDo list
+2025-05-08 13:45:36 [INFO] Fetching ToDo list
+2025-05-08 13:45:36 [INFO] Displaying page 1 of ToDo list
+2025-05-08 13:57:37 [INFO] Fetching ToDo list
+2025-05-08 13:57:37 [INFO] Displaying page 1 of ToDo list
+2025-05-08 13:57:47 [INFO] Fetching ToDo list
+2025-05-08 13:57:47 [INFO] Displaying page 1 of ToDo list
+2025-05-08 14:08:21 [INFO] Fetching ToDo list
+2025-05-08 14:08:21 [INFO] Displaying page 1 of ToDo list
+2025-05-08 14:11:59 [INFO] Fetching ToDo list
+2025-05-08 14:11:59 [INFO] Displaying page 1 of ToDo list
+2025-05-08 14:12:04 [INFO] Fetching ToDo list
+2025-05-08 14:12:04 [INFO] Displaying page 1 of ToDo list
+2025-05-08 14:19:41 [INFO] Fetching ToDo list
+2025-05-08 14:19:41 [INFO] Displaying page 1 of ToDo list
+2025-05-08 14:23:07 [INFO] Fetching ToDo list
+2025-05-08 14:23:07 [INFO] Displaying page 1 of ToDo list
+2025-05-08 14:26:25 [INFO] Fetching ToDo list
+2025-05-08 14:26:25 [INFO] Displaying page 1 of ToDo list
+2025-05-08 14:29:26 [INFO] Fetching ToDo list
+2025-05-08 14:29:26 [INFO] Displaying page 1 of ToDo list
+2025-05-08 15:06:38 [INFO] Fetching ToDo list
+2025-05-08 15:06:38 [INFO] Displaying page 1 of ToDo list
+2025-05-08 15:07:40 [INFO] Fetching ToDo list
+2025-05-08 15:07:41 [INFO] Displaying page 1 of ToDo list
+2025-05-08 15:08:32 [INFO] Fetching ToDo list
+2025-05-08 15:08:32 [INFO] Displaying page 1 of ToDo list
+2025-05-08 15:14:21 [INFO] Fetching ToDo list
+2025-05-08 15:14:21 [INFO] Displaying page 1 of ToDo list
+2025-05-08 15:15:44 [INFO] Fetching ToDo list
+2025-05-08 15:15:44 [INFO] Displaying page 1 of ToDo list
+2025-05-08 15:19:11 [INFO] Fetching ToDo list
+2025-05-08 15:19:11 [INFO] Displaying page 1 of ToDo list
+2025-05-08 15:20:43 [INFO] Fetching ToDo list
+2025-05-08 15:20:43 [INFO] Displaying page 1 of ToDo list
+2025-05-08 15:21:34 [INFO] Fetching ToDo list
+2025-05-08 15:21:34 [INFO] Displaying page 1 of ToDo list
+2025-05-08 15:21:39 [INFO] Fetching ToDo list
+2025-05-08 15:21:39 [INFO] Displaying page 1 of ToDo list
+2025-05-08 15:26:23 [INFO] Fetching ToDo list
+2025-05-08 15:26:23 [INFO] Displaying page 1 of ToDo list
+2025-05-08 15:29:49 [INFO] Fetching ToDo list
+2025-05-08 15:29:50 [INFO] Displaying page 1 of ToDo list
+2025-05-08 15:30:38 [INFO] Fetching ToDo list
+2025-05-08 15:30:38 [INFO] Displaying page 1 of ToDo list
+2025-05-08 15:31:52 [INFO] Fetching ToDo list
+2025-05-08 15:31:52 [INFO] Displaying page 1 of ToDo list
+2025-05-08 15:31:59 [INFO] Returning ToDo edit form for ID 1 via AJAX
+2025-05-08 15:33:19 [INFO] Fetching ToDo list
+2025-05-08 15:33:19 [INFO] Displaying page 1 of ToDo list
+2025-05-08 16:32:28 [INFO] Fetching ToDo list
+2025-05-08 16:32:28 [INFO] Displaying page 1 of ToDo list
+2025-05-08 16:38:14 [INFO] Fetching ToDo list
+2025-05-08 16:38:14 [INFO] Displaying page 1 of ToDo list
+2025-05-14 14:36:03 [INFO] Fetching ToDo list
+2025-05-14 14:36:03 [INFO] Displaying page 1 of ToDo list
+2025-05-14 14:38:26 [INFO] Returning ToDo edit form for ID 1 via AJAX
+2025-05-14 14:39:49 [INFO] Fetching ToDo list
+2025-05-14 14:39:49 [INFO] Displaying page 1 of ToDo list
+2025-05-14 14:41:37 [INFO] Fetching ToDo list
+2025-05-14 14:41:37 [INFO] Displaying page 1 of ToDo list
+2025-05-14 14:42:36 [INFO] Attempting to create ToDo: Buy Fruits
+2025-05-14 14:42:36 [INFO] ToDo created successfully: Buy Fruits
+2025-05-14 14:42:36 [INFO] Fetching ToDo list
+2025-05-14 14:42:36 [INFO] Displaying page 1 of ToDo list
+2025-05-14 14:49:02 [INFO] Fetching ToDo list
+2025-05-14 14:49:02 [INFO] Displaying page 1 of ToDo list
+2025-05-14 14:49:05 [INFO] Exporting ToDo list to Excel with search query: 
+2025-05-14 14:49:07 [INFO] Exported ToDo list to Excel successfully
