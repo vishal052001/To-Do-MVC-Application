@@ -1,0 +1,122 @@
+﻿@model ToDoListAppMVC.Models.User
+
+@{
+    ViewData["Title"] = "Profile";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<a id="goBackButton" href="@Url.Action("Index", "ToDo")" class="btn btn-primary btn-equal-size mt-4">
+    ← Go Back
+</a>
+
+<div class="container mt-4">
+    <h2 class="text-center mb-4">Profile</h2>
+
+
+    <form asp-action="EditProfile" asp-controller="Account" method="post" id="profileForm">
+        <input type="hidden" name="Id" value="@Model.Id" />
+
+        <div class="mb-3">
+            <label for="Id" class="form-label">Id</label>
+            <p id="Id" class="form-control">@Model.Id</p>
+        </div>
+
+        @* <div class="mb-3">
+            <label for="Id" class="form-label">Id</label>
+            <input type="text" class="form-control" id="Id" name="Id" value="@Model.Id" readonly />
+        </div> *@
+
+        <div class="mb-3">
+            <label for="FirstName" class="form-label">First Name</label>
+            <input type="text" class="form-control" id="FirstName" name="FirstName" value="@Model.FirstName" readonly />
+        </div>
+
+        <div class="mb-3">
+            <label for="LastName" class="form-label">Last Name</label>
+            <input type="text" class="form-control" id="LastName" name="LastName" value="@Model.LastName" readonly />
+        </div>
+
+        <div class="mb-3">
+            <label for="Username" class="form-label">Username</label>
+            <input type="text" class="form-control" id="Username" name="Username" value="@Model.Username" readonly />
+        </div>
+
+        <div class="mb-3">
+            <label for="Email" class="form-label">Email</label>
+            <input type="email" class="form-control" id="Email" name="Email" value="@Model.Email" readonly />
+        </div>
+
+        <div class="mb-3">
+            <label for="Phone" class="form-label">Phone</label>
+            <input type="text" class="form-control" id="Phone" name="Phone" value="@Model.Phone" readonly />
+        </div>
+
+        @* <div class="mb-3">
+            <label for="Role" class="form-label">Role</label>
+            <select class="form-control" id="Role" name="Role" disabled>
+                <option value="Admin" selected="@(Model.Role == "Admin")">Admin</option>
+                <option value="Standard User" selected="@(Model.Role == "Standard User")">Standard User</option>
+
+            </select>
+        </div> *@
+
+        <div class="mb-3">
+            <label for="Role" class="form-label">Role</label>
+            <p id="Role" class="form-control">@Model.Role</p>
+        </div>
+
+        <div class="mb-3">
+            <label for="Password" class="form-label">Password</label>
+            <input type="password" class="form-control" id="Password" name="Password" placeholder="Enter new password" readonly />
+        </div>
+
+        <div class="text-end">
+            <button id="editButton" class="btn btn-primary btn-equal-size" type="button">Edit</button>
+            <button id="saveButton" class="btn btn-success btn-equal-size d-none" type="submit">Save</button>
+            <button id="cancelButton" class="btn btn-secondary btn-equal-size d-none" type="button">Cancel</button>
+        </div>
+
+    </form>
+</div>
+
+<script>
+    const editButton = document.getElementById('editButton');
+    const saveButton = document.getElementById('saveButton');
+    const cancelButton = document.getElementById('cancelButton');
+    const goBackButton = document.getElementById('goBackButton');
+    const formInputs = document.querySelectorAll('#profileForm input');
+    const roleDropdown = document.getElementById('Role');
+
+    
+    editButton.addEventListener('click', () => {
+        formInputs.forEach(input => {
+            if (input.id !== 'Id') { 
+                input.removeAttribute('readonly');
+            }
+        });
+        roleDropdown.removeAttribute('disabled');
+        editButton.classList.add('d-none');
+        goBackButton.classList.add('d-none');
+        saveButton.classList.remove('d-none');
+        cancelButton.classList.remove('d-none');
+    });
+
+    
+    saveButton.addEventListener('click', () => {
+        document.getElementById('profileForm').submit();
+    });
+
+    
+    cancelButton.addEventListener('click', () => {
+       
+        location.reload();
+    });
+
+</script>
+
+<style>
+    .btn-equal-size {
+        width: 120px;
+        height: 40px;
+    }
+</style>

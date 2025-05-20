@@ -1,0 +1,80 @@
+﻿@model IEnumerable<ToDoListAppMVC.Models.User>
+
+@{
+    ViewData["Title"] = "Manage Users";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<a href="@Url.Action("Index", "ToDo")" class="btn btn-primary btn-equal-size mt-4">
+    ← Go Back
+</a> 
+
+<div class="px-3">
+<div class="container mt-4">
+    <h2 class="text-center mb-4">Manage Users</h2>
+</div>
+<hr>
+        <table class="table mt-3">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Username</th>
+                    <th>Email</th>
+                    <th>Role</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var user in Model)
+                {
+                    <tr>
+                        <td>@user.Id</td>
+                        <td>@user.Username</td>
+                        <td>@user.Email</td>
+                        <td>@user.Role</td>
+                        <td>
+                            @if (user.Role == "StandardUser")
+                            {
+                                <!-- Promote to Admin -->
+                                <form asp-action="ChangeUserRole" asp-controller="Account" method="post" class="d-inline" onsubmit="return confirm('Are you sure you want to promote this user to Admin?');">
+                                    <input type="hidden" name="userId" value="@user.Id" />
+                                    <input type="hidden" name="newRole" value="Admin" />
+                                    <button type="submit" class="btn btn-primary btn-equal-size">Promote</button>
+                                </form>
+                            }
+                            else if (user.Role == "Admin")
+                            {
+                                <!-- Demote to Standard User -->
+                                <form asp-action="ChangeUserRole" asp-controller="Account" method="post" class="d-inline" onsubmit="return confirm('Are you sure you want to demote this Admin to Standard User?');">
+                                    <input type="hidden" name="userId" value="@user.Id" />
+                                    <input type="hidden" name="newRole" value="StandardUser" />
+                                    <button type="submit" class="btn btn-info btn-equal-size">Demote</button>
+                                </form>
+                            }
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+</div>
+
+<!-- Display Popups for Success and Error Messages -->
+@{
+    var errorMessage = TempData["Error"] as string;
+    var successMessage = TempData["Success"] as string;
+}
+
+@if (!string.IsNullOrEmpty(errorMessage))
+{
+    <script>
+        alert("@errorMessage");
+    </script>
+}
+
+@if (!string.IsNullOrEmpty(successMessage))
+{
+    <script>
+        alert("@successMessage");
+        window.location.href = '@Url.Action("ManageUsers", "Account")';
+    </script>
+}
